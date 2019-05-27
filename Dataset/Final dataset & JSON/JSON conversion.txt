@@ -1,0 +1,21 @@
+df = pd.read_csv('C:/Users/RAHUL/Documents/NLP Project/Dataset/nlp_annotation.csv')
+
+from sklearn.utils import shuffle
+df = shuffle(df)
+print df.head()
+print df.shape
+train, test = train_test_split(df, test_size=0.1)
+y_true = test['label']
+
+new_df=pd.DataFrame(columns = ["Incident", "Summary", "label"])
+rows = []
+#train = train[:1300]
+for index,row in train.iterrows(): 
+    print '{'
+    print '\t"label":'+'"'+str(row['label'])+'"'
+    print '\t"data":'+'"'+str(row['Summary'])+'"'
+    print '},'
+    rows.append((str(row['Incident']),str(row['Summary']),str(row['label'])))
+new_df=pd.DataFrame(rows,columns = ["Incident", "Summary", "label"])
+print new_df.head()
+new_df.to_csv("Final_dataset.csv")

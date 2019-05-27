@@ -1,0 +1,3896 @@
+{
+	"description": [
+		"Classification of DPS incidents according to the Level of Danger using the incident description."
+	],
+	"corpus": [{
+	"label": "2",
+	"data": "Unknown suspects entered into several possible unlocked rooms and removed students personal property. No forced entry was discovered."
+}, {
+	"label": "2",
+	"data": "A staff member reported that a computer monitor, keyboard and power strip had been placed on the floor inside an unsecured office at the location. No property was removed."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student reported that another student posted a statement on a social media site that caused her to believe the subject may attempt to harm herself. The second student was subsequently determined to be unharmed and with her mother."
+}, {
+	"label": "2",
+	"data": "A student reported that a suspect is sharing nude photographs of her on social media without her permission."
+}, {
+	"label": "3",
+	"data": "A suspect who was observed harassing students at the location was issued a University 'stay away' letter."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "1",
+	"data": "A non-USC male reported that while he was sitting inside his parked vehicle it was struck by another vehicle and after parking next to him the driver of the second vehicle walked away without stopping to identify himself."
+}, {
+	"label": "2",
+	"data": "A non-USC male drove a Metro bus into a University tram driven by a staff member, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A non-USC male suffering from an unspecified illness was transported to a local hospital for medical treatment."
+}, {
+	"label": "1",
+	"data": "A staff member drove a forklift into a Metro Rail surveillance camera, knocking it over."
+}, {
+	"label": "1",
+	"data": "A student reported his cellular phone missing."
+}, {
+	"label": "2",
+	"data": "A suspect known to have an outstanding felony warrant was arrested near the location."
+}, {
+	"label": "2",
+	"data": "A student reported that someone may have placed a drug in her drink while she was attending a party at the location."
+}, {
+	"label": "2",
+	"data": "An intoxicated non-USC male was examined and released into the care of his girlfriend."
+}, {
+	"label": "3",
+	"data": "Three juveniles were detained for investigation after they were observed tampering with bicycles in the racks outside the location. The juveniles were then advised against trespassing on University property and released to their guardians."
+}, {
+	"label": "1",
+	"data": "A party hosted by a student at the location was shut down following multiple noise complaints."
+}, {
+	"label": "4",
+	"data": "A suspect removed the vehicle battery."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported to a local hospital for medical treatment after falling and injuring her knees and back."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after falling and injuring her arm."
+}, {
+	"label": "2",
+	"data": "A student reported that her roommate threatened her during an argument."
+}, {
+	"label": "2",
+	"data": "An unidentified female entered a classroom and left without incident."
+}, {
+	"label": "2",
+	"data": "A suspect removed a television and a phone charger."
+}, {
+	"label": "1",
+	"data": "A student reported her cellular phone missing."
+}, {
+	"label": "4",
+	"data": "A student reported that she believes she was touched inappropriately by an unidentified male during an event at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to SHC for medical treatment after complaining of difficulty breathing."
+}, {
+	"label": "1",
+	"data": "A student reported her passport missing."
+}, {
+	"label": "1",
+	"data": "The screen on a laptop computer mounted in a University vehicle was damaged by unknown means."
+}, {
+	"label": "1",
+	"data": "A fire alarm was activated by contractors power washing the concrete on the fourth floor of the location."
+}, {
+	"label": "1",
+	"data": "A staff member reported that the passenger side doors were scratched while her vehicle was parked at the location."
+}, {
+	"label": "1",
+	"data": "A staff member working in the coffee shop at the location reported that another staff member yelled profanities at her and threw straws on the ground because his drink was not prepared to his satisfaction."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for possession of a fake ID."
+}, {
+	"label": "1",
+	"data": "A parking control arm lowered and struck a non-USC male's vehicle as he was entering the location and as he continued to drive forward the arm was broken off it's base."
+}, {
+	"label": "1",
+	"data": "A staff member reported a flashlight was missing or lost."
+}, {
+	"label": "2",
+	"data": "A suspect removed a package that was delivered to the location."
+}, {
+	"label": "2",
+	"data": "Two students were involved in a verbal altercation at the location."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A student reported receiving numerous harassing messages from his ex-girlfriend on multiple social media sites."
+}, {
+	"label": "2",
+	"data": "A suspect removed a laptop computer."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "3",
+	"data": "LAFD responded to a carbon monoxide alarm activation in an apartment at the location. No carbon monoxide was detected and the apartment was subsequently cleared for reentry."
+}, {
+	"label": "3",
+	"data": "A bong was found in a dorm room during a routine health and safety inspection."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect spray painted graffiti on a non-USC male's vehicle while it was parked near the location."
+}, {
+	"label": "3",
+	"data": "Three juveniles and a non-USC female were detained for questioning after they were observed to be smoking marijuana in a vehicle parked on the top floor of the location. All of the subjects were advised against trespassing on University property and subsequently released."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student reported his bicycle stolen."
+}, {
+	"label": "2",
+	"data": "A staff member suffering from flu like symptoms was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A student drove her vehicle into a non-USC male's vehicle, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A student was transported to SHC for medical treatment after complaining of irritation to his eye."
+}, {
+	"label": "1",
+	"data": "A suspect was arrested for prowling around vehicles parked at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to seek medical treatment on her own after injuring her shoulder."
+}, {
+	"label": "1",
+	"data": "A suspect used chalk to draw graffiti on the ground and a planter at the location."
+}, {
+	"label": "2",
+	"data": "A student reported that she has been involved in an on-going dispute with her roommate."
+}, {
+	"label": "3",
+	"data": "A student who was expelled from school was reported to be harassing students and faculty at the location. Officers requested that he leave the premises and he complied without further incident."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone."
+}, {
+	"label": "2",
+	"data": "A suspect used an unknown object to puncture the rear tires on a non-USC female's vehicle."
+}, {
+	"label": "2",
+	"data": "A staff member was examined and released at the scene after complaining of chest pains."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "2",
+	"data": "A suspect removed a dental tool and attachments."
+}, {
+	"label": "2",
+	"data": "A non-USC female was examined and released at the scene after complaining of dizziness and feeling light headed."
+}, {
+	"label": "2",
+	"data": "A student died of unknown cause."
+}, {
+	"label": "1",
+	"data": "A non-USC male reported that the driver's side door was damaged while his vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after injuring her knee."
+}, {
+	"label": "3",
+	"data": "A suspect removed a white, 1994 Honda Accord that was parked near the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A staff member fell in front of location. She declined any medical attention."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to seek medical treatment on her own after falling and sustaining abrasions to her cheek, hands, arm and knee."
+}, {
+	"label": "2",
+	"data": "A suspect removed a phone charger, a pair of headphones, a skateboard, a guitar and other miscellaneous property from three vehicles parked at the location."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for possession of a fake ID."
+}, {
+	"label": "3",
+	"data": "A contaminated bag activated an alarm on the loading dock."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by cigarette smoke."
+}, {
+	"label": "2",
+	"data": "A student reported receiving a text message from an unidentified subject that caused her concern."
+}, {
+	"label": "2",
+	"data": "A suspect removed a purse."
+}, {
+	"label": "2",
+	"data": "A student was transported to SHC for medical treatment after complaining of back pain."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A suspect removed a skateboard."
+}, {
+	"label": "2",
+	"data": "Officers responded to the location at the request of a student who wanted them to standby while her ex-boyfriend removed his property from her apartment after she asked him to move out. The subject gathered his property and left without incident."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "1",
+	"data": "A student reported her cellular phone missing."
+}, {
+	"label": "4",
+	"data": "A sexual assault of an unidentified student was reported to have taken place at the location."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of chest pains and nausea."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A non-USC male drove a moving van into a University tram, causing minor damage."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "An overheated light fixture activated a fire alarm and sprinklers inside an apartment at the location, causing water to flood the apartment and the one below it. FMS personnel were requested and responded to clean up and conduct repairs."
+}, {
+	"label": "2",
+	"data": "A staff member reported that she overheard two possible students discussing obtaining guns and ammunition and it caused her concern."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for trespassing in a laundromat at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after injuring his shoulder."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect used unknown means to make two unauthorized purchases on a student's credit card account."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A welfare check was conducted on a student at the location who was reported to be distraught. The student was placed in contact with an on-call counselor at the Student Counseling Center and she was subsequently cleared for release."
+}, {
+	"label": "3",
+	"data": "A resident reported that he has surveillance video footage of a suspect climbing over a fence to gain access to the location the previous night. No property was removed."
+}, {
+	"label": "1",
+	"data": "A contractor reported two tools missing."
+}, {
+	"label": "3",
+	"data": "A student reported that a suspect approached her outside the location and attempted to hug her twice without her consent."
+}, {
+	"label": "2",
+	"data": "An intoxicated male was found passed out on the ground outside the location and he was subsequently arrested for an outstanding warrant."
+}, {
+	"label": "3",
+	"data": "An intoxicated non-USC female was examined and released into the care of her roommate."
+}, {
+	"label": "3",
+	"data": "A student committed a battery on a staff member."
+}, {
+	"label": "2",
+	"data": "A suspect removed a wallet."
+}, {
+	"label": "2",
+	"data": "A bike theft suspect was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A female student reported a suspicious male peering through her apartment window."
+}, {
+	"label": "3",
+	"data": "A non-USC female reported that she was bumped by a non-USC male's vehicle while she was standing outside the drive thru window at the location. The female sustained an unspecified injury to her leg and stated that she will seek medical treatment on her own."
+}, {
+	"label": "3",
+	"data": "A carbon monoxide alarm was activated by unknown cause."
+}, {
+	"label": "4",
+	"data": "A student was transported to a local hospital for medical treatment after an apparent attempt to harm herself."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for damaging a door at the location."
+}, {
+	"label": "2",
+	"data": "A student reported that she has obtained a restraining order against her ex-boyfriend due to him attempting to forcibly take their child away from her."
+}, {
+	"label": "2",
+	"data": "A suspect removed a wallet."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of chest pains and difficulty breathing."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "3",
+	"data": "A trespassing suspect was arrested for possession of a controlled substance."
+}, {
+	"label": "2",
+	"data": "A student on a bicycle was struck by a car door that was opened in his path, forcing him to stop. The rear wheel of the student's bicycle was then struck by a bus, causing him to fall to the ground. The student sustained multiple abrasions and complained of dizziness and he was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A non-USC male was transported to a local hospital for medical treatment after complaining of difficulty breathing."
+}, {
+	"label": "3",
+	"data": "Four suspects who were found sleeping inside the location were advised against trespassing on University property and escorted off campus."
+}, {
+	"label": "2",
+	"data": "A juvenile was examined and released into the care of her mother after fainting."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing merchandise from the location without paying for it."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after reporting that she was feeling faint."
+}, {
+	"label": "2",
+	"data": "A student driving a University vehicle collided with a non-USC male driving his personal vehicle, causing minor to moderate damage."
+}, {
+	"label": "2",
+	"data": "A student reported that during a verbal dispute with another student he sustained an injury to his hand when the second student opened his vehicle door and it struck him. The reporting student was treated with an ice pack and released at the scene."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by smoke from burnt food."
+}, {
+	"label": "2",
+	"data": "A suspect attempted to punch a manager who blocked him from exiting the location with stolen merchandise. The manager was able to recover the merchandise and the suspect was detained by officers after fleeing from the store, but the manager did not desire criminal prosecution of the matter and the suspect was subsequently released."
+}, {
+	"label": "3",
+	"data": "A combative patient struck a nurse in the face at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "2",
+	"data": "A non-USC male was transported within the facility for medical treatment after experiencing an allergic reaction to an unknown substance."
+}, {
+	"label": "3",
+	"data": "A suspect removed two televisions."
+}, {
+	"label": "1",
+	"data": "A suspect was arrested for prowling inside the location."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for underage possession of alcohol."
+}, {
+	"label": "3",
+	"data": "A fire alarm was activated from a pull station."
+}, {
+	"label": "2",
+	"data": "A welfare check was conducted on a student at the location after she sent a disturbing text message to a friend. The student was placed in contact with a counselor at the Student Counseling Center and she was subsequently cleared for release."
+}, {
+	"label": "2",
+	"data": "A suspect removed a skateboard."
+}, {
+	"label": "1",
+	"data": "A parking gate was damaged by unknown means."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after injuring his wrist."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after experiencing an allergic reaction to food she had eaten."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "2",
+	"data": "Unknown suspect gained access through a resident window while a student was sleeping. The suspect removed a laptop, backpack and keys."
+}, {
+	"label": "1",
+	"data": "A suspect was arrested for prowling around residences near the location and possession of burglary tools."
+}, {
+	"label": "3",
+	"data": "A suspect removed two cameras, a cellular phone, two calculators, three pairs of shoes and miscellaneous documents."
+}, {
+	"label": "1",
+	"data": "A student reported her vehicle's right side mirror damaged."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose"
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after injuring his shoulder."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing merchandise from the location without paying for it."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A staff member reported receiving approximately forty annoying voice mail messages from a patient."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "An office window was shattered at the location, possibly after being struck by a rock that was blown by a leaf blower."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of her roommate."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after experiencing complications from a prior head injury."
+}, {
+	"label": "2",
+	"data": "A student driving her personal vehicle collided with a non-USC male driving his personal vehicle, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of a friend."
+}, {
+	"label": "1",
+	"data": "A fire alarm was activated by heat from a food warmer."
+}, {
+	"label": "2",
+	"data": "A suspect removed a package that was delivered to the location."
+}, {
+	"label": "2",
+	"data": "A student reported that after purchasing a concert ticket from a subject on a classified ad web site she was unable to verify it's authenticity and attempted to get a refund, but the seller refused to comply."
+}, {
+	"label": "3",
+	"data": "A student reported that a non-USC male was observed by a witness tampering with the doors and windows of his vehicle and the subject is refusing to pay for the damage he caused."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "A parking meter was knocked off it's base by unknown means."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing merchandise from the location without paying for it."
+}, {
+	"label": "2",
+	"data": "FMS personnel responded to the location to free a student who was trapped in an elevator."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "An intoxicated female student was transported to a hospital."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "3",
+	"data": "Three suspects approached a student near the location and one of them snatched her cellular phone from her hand. The suspects then fled on foot and disappeared from sight. Three suspects were detained by officers and the phone was recovered, but the student was unable to positively identify the subjects and they were subsequently released."
+}, {
+	"label": "2",
+	"data": "A staff member reported that her office has been receiving numerous annoying email messages from a parent regarding the results of an academic investigation of his son."
+}, {
+	"label": "2",
+	"data": "A DPS officer reported that he and other staff members were advised by a nurse that they had been exposed to tuberculosis while working at the location."
+}, {
+	"label": "2",
+	"data": "A male visitor fell from his bicycle injuring his right hand. He declined medical assistance."
+}, {
+	"label": "1",
+	"data": "A student reported his passport missing."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "5",
+	"data": "A non-USC male died of unknown cause in a room at the location."
+}, {
+	"label": "3",
+	"data": "Water leaking from a washing machine flooded the lobby of the location. The water to the machine was turned off and FMS personnel were requested to clean up and conduct repairs."
+}, {
+	"label": "2",
+	"data": "An employee was arrested for removing merchandise from the location without paying for it."
+}, {
+	"label": "2",
+	"data": "A student was struck by a vehicle while riding his bicycle near the location. The student reported minor soreness to his shoulder, but he declined medical treatment."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of a friend."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by smoke from burnt food."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "3",
+	"data": "A suspect used unknown means to make an unauthorized purchase on a student's credit card account."
+}, {
+	"label": "2",
+	"data": "Surveillance video captured a student stealing merchandise. The student was issued a citation and released."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A welfare check was conducted on a student at the location after a faculty member reported receiving an email message from him that indicated he may attempt to harm himself. The student was unharmed when contacted by officers and he was cleared for release after speaking with a counselor at the Student Counseling Center."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after complaining of difficulty breathing."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for possession of two fake Id's."
+}, {
+	"label": "2",
+	"data": "A student was transported to SHC for medical treatment after injuring her ankle."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after losing consciousness."
+}, {
+	"label": "2",
+	"data": "A suspect removed an external hard drive."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "3",
+	"data": "A suspect approached a student who was walking near the location and demanded his property while brandishing a knife. Fearing for his safety, the student fled on foot and the suspect did not pursue him."
+}, {
+	"label": "1",
+	"data": "A fire alarm was activated by smoke from burnt food."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported to a local hospital for medical treatment after suffering a possible stroke."
+}, {
+	"label": "2",
+	"data": "A student reported that while she was working at the information desk she received a suspicious call from a subject inquiring about events at the location and it caused her concern."
+}, {
+	"label": "1",
+	"data": "Officers responded to a report of a patient behaving erratically at the location. The officers were able to calm the patient and after it was determined that he did not meet the criteria for a psychological hold he was escorted out of the building to be transported home by a car service."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for throwing a cup of alcohol that nearly struck a passing DPS officer."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of her roommate."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after complaining of chest pains."
+}, {
+	"label": "1",
+	"data": "A department issued laptop computer was damaged by unknown means."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "Water was reported to be leaking onto the floor of a hallway and conference room at the location. The leak was determined to be coming from a janitor's closet where water was flowing from a hose attached to an open faucet into an overflowing bucket. The faucet was turned off and FMS personnel were requested to clean up the standing water."
+}, {
+	"label": "3",
+	"data": "An intoxicated student was examined and released into the care of a friend."
+}, {
+	"label": "2",
+	"data": "A bike theft suspect was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A student reported that he wired money to a subject from whom he intended to sublet an apartment and he subsequently learned from the property manager that there was no such person residing in the building."
+}, {
+	"label": "1",
+	"data": "A fire alarm was activated by an accidental smoke detector activation."
+}, {
+	"label": "2",
+	"data": "A student was transported to SHC for medical treatment after sustaining a cut to her finger."
+}, {
+	"label": "1",
+	"data": "A student was cited to Judicial Affairs for smoking marijuana in his dorm room at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a USC parking permit."
+}, {
+	"label": "2",
+	"data": "A student reported his unattended laptop stolen."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to her mother after injuring her shin."
+}, {
+	"label": "5",
+	"data": "Officers responded to a report of a shooting near the location. A non-USC male was found to have sustained a gunshot wound and was transported to a local hospital for medical treatment. LAPD will handle the investigation."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for an outstanding warrant."
+}, {
+	"label": "3",
+	"data": "A suspect approached a student standing near the location and snatched his cellular phone from his hand. The suspect then fled on foot and disappeared from sight."
+}, {
+	"label": "3",
+	"data": "An intoxicated student was examined and released into the care of his roommate."
+}, {
+	"label": "2",
+	"data": "A staff member drove a University tram into a parked University tram, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A suspect removed luggage."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of her roommate."
+}, {
+	"label": "3",
+	"data": "A student reported that her vehicle was struck by another vehicle while it was parked near the location and the driver of the second vehicle left without reporting the incident or leaving any contact information at the scene."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A non-USC female drove her vehicle into a parking bollard, causing minor damage."
+}, {
+	"label": "2",
+	"data": "A parking control arm lowered and struck a student in the face and chest as she was walking past it. The student did not desire medical treatment."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone, a wallet and keys from a backpack."
+}, {
+	"label": "2",
+	"data": "A suspect removed a pair of headphones."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of a severe headache and a fever."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for public indecent exposure. Addition charges were added for possession of a controlled substance."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after fainting."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after falling and hitting her head."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A fire was reported in a cardboard trash can at the location. Officers responded and used a fire extinguisher to put out the fire."
+}, {
+	"label": "2",
+	"data": "A suspect removed the front wheel from a bicycle."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after injuring his shoulder."
+}, {
+	"label": "3",
+	"data": "A suspect removed a laptop computer and a cellular phone."
+}, {
+	"label": "2",
+	"data": "A bike theft suspect was arrested for two outstanding warrants."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "A staff member reported that a parking control arm was damaged when it was struck by an unidentified bicyclist."
+}, {
+	"label": "2",
+	"data": "A suspect used an unknown object to scratch the paint on the driver's side of a staff member's vehicle while it was parked at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for being in possession of a stolen electric scooter, possession of a controlled substance, possession of an illegal knife and an outstanding warrant."
+}, {
+	"label": "1",
+	"data": "Safety Office personnel responded to investigate a report of the smell of gas in a stairwell at the location. The smell was subsequently determined to be exhaust fumes from a vehicle in the parking garage and it dissipated upon ventilating the stairwell."
+}, {
+	"label": "3",
+	"data": "A prowling suspect was arrested for possession of a controlled substance."
+}, {
+	"label": "2",
+	"data": "A staff member drove a University vehicle into a concrete pillar, causing moderate damage."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released at the scene."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing merchandise from the location without paying for it."
+}, {
+	"label": "3",
+	"data": "An unidentified male drove a vehicle through a parking control arm, causing it to break off it's base."
+}, {
+	"label": "3",
+	"data": "Two suspects were arrested for spray painting graffiti on a wall near the location."
+}, {
+	"label": "2",
+	"data": "A suspect used unknown means to make several unauthorized purchases on a student's credit card account."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for spray painting graffiti on a wall near the location."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for removing a laptop computer from an apartment at the location."
+}, {
+	"label": "2",
+	"data": "Six students were cited to Judicial Affairs for underage possession of alcohol and four of them were also cited for possession of fake Id's."
+}, {
+	"label": "1",
+	"data": "A student's vehicle was immobilized for displaying a forged USC parking permit."
+}, {
+	"label": "2",
+	"data": "A call center operator at the location reported receiving a phone call from a suspect who made a statement about shooting someone at LAC+USC Hospital. The incident was referred to LASD for investigation."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a light that was mounted on a bicycle."
+}, {
+	"label": "1",
+	"data": "A fire alarm was activated by dust from a heating system."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for exposing himself to a non-USC female inside the location."
+}, {
+	"label": "3",
+	"data": "A student reported that his vehicle was struck by another vehicle while he was driving near the location and when he stopped to exchange information the driver of the second vehicle refused to identify himself and subsequently left the scene."
+}, {
+	"label": "3",
+	"data": "A suspect used unknown means to gain entry then tore open the steering column during an unsuccessful attempt to start a student's vehicle."
+}, {
+	"label": "1",
+	"data": "A student reported her USC ID and a set of keys missing."
+}, {
+	"label": "2",
+	"data": "A welfare check was conducted on a non-USC female at the location who appeared lost and disoriented possibly due to being under the influence of a controlled substance. The female was examined by paramedics and subsequently cleared for release."
+}, {
+	"label": "2",
+	"data": "A suspect removed currency."
+}, {
+	"label": "2",
+	"data": "A student transported herself to SHC for medical treatment after injuring her leg and arm."
+}, {
+	"label": "2",
+	"data": "A staff member drove a University vehicle into a curb, puncturing the front passenger side tire and damaging the wheel rim."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of his RA."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A faculty member was transported to a local hospital for medical treatment after complaining of dizziness and numbness in his extremities."
+}, {
+	"label": "1",
+	"data": "A contractor reported that the trunk was dented and scratched while his company vehicle was parked at the location."
+}, {
+	"label": "3",
+	"data": "A student drove his vehicle into a non-USC male's vehicle, causing moderate damage. The male sustained a lower back injury and was examined and released at the scene."
+}, {
+	"label": "2",
+	"data": "A student reported receiving a phone call from two suspects posing as immigration officers who attempted to get him to pay for bail by purchasing gift cards and then providing the security numbers to the subjects in order to avoid incarceration for an immigration violation. The student concluded that the call was a scam and did not comply."
+}, {
+	"label": "1",
+	"data": "A student reported that the front bumper was damaged while her vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a pair of computer speakers."
+}, {
+	"label": "2",
+	"data": "A suspect removed mail from a mailbox."
+}, {
+	"label": "3",
+	"data": "A trespassing suspect was arrested for possession of a controlled substance and a parole violation."
+}, {
+	"label": "3",
+	"data": "A suspect removed a projector and a speaker."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A carbon monoxide alarm was activated by a malfunctioning detector."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "2",
+	"data": "A battery suspect was arrested for an outstanding warrant."
+}, {
+	"label": "5",
+	"data": "A student committed suicide."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after suffering an allergic reaction to food she had eaten."
+}, {
+	"label": "2",
+	"data": "A suspect removed the wheels from a bicycle."
+}, {
+	"label": "2",
+	"data": "A student reported that a company offered him employment and subsequently sent him a check which he was instructed to"
+}, {
+	"label": "1",
+	"data": "A staff member reported a set of building floor plans missing."
+}, {
+	"label": "2",
+	"data": "A suspect who was observed tampering with parking meters near the location was transported to a local hospital for medical treatment after he was determined to be under the influence of a controlled substance."
+}, {
+	"label": "1",
+	"data": "A student reported his USC ID missing."
+}, {
+	"label": "2",
+	"data": "A student reported that she was awakened by noise outside her bedroom window and then observed a suspect jump over a fence onto the property. The student screamed and the suspect fled on foot in an unknown direction."
+}, {
+	"label": "2",
+	"data": "A bike theft suspect was arrested for four outstanding warrants."
+}, {
+	"label": "2",
+	"data": "A juvenile was examined and released into the care of her mother after suffering an anxiety attack."
+}, {
+	"label": "2",
+	"data": "A suspect used a marking pen to draw graffiti on a wall on the top floor of the location."
+}, {
+	"label": "2",
+	"data": "A suspect detained for trespassing was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing merchandise from the location without paying for it."
+}, {
+	"label": "1",
+	"data": "A staff member reported a University vehicle key missing."
+}, {
+	"label": "4",
+	"data": "A student reported that a suspect reached under her dress and groped her while she was walking near the location."
+}, {
+	"label": "2",
+	"data": "A student and former boyfriend were engaged in a verbal and physical altercation resulting in injuries."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A suspect removed a package that was delivered to the location."
+}, {
+	"label": "1",
+	"data": "A staff member reported his desk fan missing."
+}, {
+	"label": "1",
+	"data": "A staff member reported that a laptop computer mounted in a University vehicle was damaged by unknown means."
+}, {
+	"label": "1",
+	"data": "A University electric cart sustained unspecified damage while several juveniles were joyriding in it inside the location."
+}, {
+	"label": "2",
+	"data": "A non-USC male was examined and released at the scene after falling inside a restroom at the location."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to SHC for medical treatment after suffering an anxiety attack."
+}, {
+	"label": "2",
+	"data": "A patient was losing consciousness during a dental procedure. LA Paramedics examined the patient and released him. The patient declined additional medical attention."
+}, {
+	"label": "3",
+	"data": "A staff member reported that his vehicle was struck by another vehicle while it was parked near the location and the driver of the second vehicle left without reporting the incident or leaving any contact information at the scene."
+}, {
+	"label": "2",
+	"data": "A student reported receiving a phone call from a suspect who threatened to report her to immigration officials for allegedly having incomplete immigration documents if she didn't pay him money. The student did not comply."
+}, {
+	"label": "2",
+	"data": "A toddler was transported to a local hospital for medical treatment after injuring his finger."
+}, {
+	"label": "2",
+	"data": "A suspect removed a gym bag."
+}, {
+	"label": "2",
+	"data": "A student was examined and released into the care of her mother after suffering a panic attack."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A student was struck by a vehicle while crossing the street at the location. The student sustained an injury to her knee, but she did not desire medical treatment."
+}, {
+	"label": "1",
+	"data": "A suspect was arrested for prowling in the bike racks at the location."
+}, {
+	"label": "2",
+	"data": "A suspect shot the door of a University tram with a paint ball gun as it was being driven near the location."
+}, {
+	"label": "3",
+	"data": "A staff member and a non-USC female both reported being sexually harassed by a non-USC male inside the location."
+}, {
+	"label": "3",
+	"data": "A student was struck by a vehicle while riding his bicycle near the location. The student sustained a cut to his arm and was treated and released at the scene."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "4",
+	"data": "A suspect approached a non-USC male from behind as he was walking to his vehicle outside the location and stabbed him twice with a possible steak knife while demanding the male's money. The male refused to comply and was able to enter his vehicle to get away from the suspect. The suspect then punctured the driver's side tires on the male's vehicle before walking away."
+}, {
+	"label": "2",
+	"data": "A non-USC male was arrested for assaulting his wife at the location."
+}, {
+	"label": "1",
+	"data": "Two suspects were arrested for prowling at the location."
+}, {
+	"label": "2",
+	"data": "A non-USC female reported that a suspect threw several eggs at her residence."
+}, {
+	"label": "2",
+	"data": "A suspect who was observed harassing passersby near the location was arrested for an outstanding warrant and for damaging a University vehicle while in custody."
+}, {
+	"label": "4",
+	"data": "A student reported that a suspect grabbed her buttocks while she was shopping inside the location. The student did not report the incident until she finished shopping and returned to her residence, so officers were unable to conduct a search for the suspect."
+}, {
+	"label": "1",
+	"data": "A staff member backed a University vehicle into a boulder, causing minor damage."
+}, {
+	"label": "3",
+	"data": "A suspect in a wheelchair who was panhandling inside the location elbowed a student in the chest without provocation then ran over her foot as he fled in an unknown direction."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for trespassing after a store manager asked him to leave the location and he refused to comply."
+}, {
+	"label": "2",
+	"data": "A suspect removed currency from a purse."
+}, {
+	"label": "3",
+	"data": "A suspect removed an unknown quantity of basketball and volleyball equipment."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after suffering an allergic reaction to an unknown substance."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for punching a DPS officer in the shoulder."
+}, {
+	"label": "2",
+	"data": "A suspect removed a wallet."
+}, {
+	"label": "2",
+	"data": "A staff member reported that a letter with a threat written on the envelope was mailed to the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a USC parking permit."
+}, {
+	"label": "2",
+	"data": "A non-USC male backed his vehicle into a parking meter and a staff member's parked vehicle, causing minor damage."
+}, {
+	"label": "2",
+	"data": "A staff member was examined and released at the scene after complaining of chest pains."
+}, {
+	"label": "4",
+	"data": "A suspect in a vehicle shot a non-USC male in the face with a BB gun while he was walking near the location. The male ran onto campus for help and was subsequently transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by a malfunction."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone."
+}, {
+	"label": "2",
+	"data": "A staff member drove a University vehicle into a parking bollard, causing minor damage."
+}, {
+	"label": "3",
+	"data": "A suspect removed miscellaneous clothing."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after falling and injuring her wrist and ankle."
+}, {
+	"label": "2",
+	"data": "A welfare check was conducted on a student at the location after she made statements about harming herself to another student. The student was found to be intoxicated but unharmed, and she was left in the care of her roommate after declining transportation for medical treatment."
+}, {
+	"label": "2",
+	"data": "A student reported that her boyfriend broke her phone and pushed her onto a bed during an argument."
+}, {
+	"label": "2",
+	"data": "A student suffering from possible food poisoning was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A nurse reported that a combative patient kicked him in the chest while he was attending to the subject. The nurse was not injured and did not desire criminal prosecution of the matter."
+}, {
+	"label": "2",
+	"data": "A suspect removed a pair of sunglasses, art supplies and miscellaneous documents."
+}, {
+	"label": "2",
+	"data": "A student reported his new packaged Ray Bans glasses were stolen from his door step."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after sustaining a cut to his chin."
+}, {
+	"label": "2",
+	"data": "A student reported that another student has made multiple threatening comments about her and her friends that have caused her concern."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A staff member drove a University tram into a pole, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A juvenile was examined and released to seek medical treatment with her parents after injuring her ankle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed two packages left outside the location."
+}, {
+	"label": "2",
+	"data": "A non-USC male was transported to a local hospital for medical treatment after complaining of chest pains."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after falling and injuring his elbow and shoulder."
+}, {
+	"label": "5",
+	"data": "A student reported that she was sexually assaulted."
+}, {
+	"label": "2",
+	"data": "A staff member drove a University vehicle over a curb, damaging the rear driver's side quarter panel."
+}, {
+	"label": "3",
+	"data": "Water was reported to be leaking from the ceiling of a basement restroom at the location. The leak was determined to be coming from a broken water valve and FMS personnel responded to clean up and conduct repairs."
+}, {
+	"label": "2",
+	"data": "A staff member reported that a suspect posted multiple threatening statements on his department's social media page."
+}, {
+	"label": "2",
+	"data": "A suspect smashed the rear driver's side window of a student's vehicle."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A student backed his vehicle into a non-USC male's parked vehicle, causing minor damage."
+}, {
+	"label": "1",
+	"data": "An intoxicated student was cited to Judicial Affairs for attempting to force his way into another student's room at the location."
+}, {
+	"label": "1",
+	"data": "A student reported that she has been the subject of on-going harassment by students living in a neighboring apartment."
+}, {
+	"label": "1",
+	"data": "A student was cited to Judicial Affairs for under age possession of alcohol and belligerent behavior with officers who were conducting an investigation at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A non-USC male was arrested for assaulting his live in girlfriend."
+}, {
+	"label": "1",
+	"data": "A student was cited to Judicial Affairs for uncooperative behavior with DPS officers who responded to his apartment following multiple complaints of loud music at the location."
+}, {
+	"label": "1",
+	"data": "Officers responded to a report of a student behaving erratically at the location. The student admitted that he was intoxicated and had thrown his refrigerator onto the front lawn because he was angry with his roommates. The student agreed to spend the night elsewhere and left the residence without further incident."
+}, {
+	"label": "2",
+	"data": "A juvenile was examined and released to her mother after falling and injuring her shoulder and knees."
+}, {
+	"label": "2",
+	"data": "A staff member drove a University tram into an unidentified subject's parked vehicle, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A non-USC female was examined and released to proceed to her pre scheduled doctor's appointment after falling inside the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "Unknown suspect(s) used fraudulent payroll checks to cash in at various banks and financial institutions in multiple states."
+}, {
+	"label": "3",
+	"data": "A student reported that his roommate, also a student, urinated on him while he was sleeping."
+}, {
+	"label": "2",
+	"data": "A non-USC female was struck by a vehicle while crossing the street at the location. The female sustained unspecified injuries and was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A suspect intentionally disconnected a water line from a sink, causing water to flood a restroom in the basement of the location. FMS personnel were requested and responded to clean up and conduct repairs."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A faculty member reported that a non-USC female with whom he used to work attempted to contact him while he was teaching a class at the location and it caused him concern."
+}, {
+	"label": "1",
+	"data": "A staff member reported a flashlight missing from a University vehicle."
+}, {
+	"label": "2",
+	"data": "A staff member reported receiving a threatening email message from an unidentified subject."
+}, {
+	"label": "2",
+	"data": "A suspect removed the driver's side view mirror."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A student who was reported to have been masturbating inside a vehicle parked at the location was detained for questioning and released."
+}, {
+	"label": "2",
+	"data": "A non-USC female was detained for shoplifting at the location. The merchandise was recovered and the female was released after receiving a 'stay away' warning."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after aggravating a preexisting injury."
+}, {
+	"label": "1",
+	"data": "A student reported that the rear passenger side taillight was damaged while his vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed currency."
+}, {
+	"label": "1",
+	"data": "A visitor reported she discovered her vehicle's rear bumper damaged."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "3",
+	"data": "A staff member reported that a patient struck her in the arm."
+}, {
+	"label": "2",
+	"data": "A suspect removed a pair of headphones."
+}, {
+	"label": "2",
+	"data": "A suspect removed a wallet."
+}, {
+	"label": "2",
+	"data": "A staff member was examined and released at the scene after sustaining an injury to her ear."
+}, {
+	"label": "3",
+	"data": "A faculty member reported that her vehicle was struck by another vehicle while it was parked at the location and the driver of the second vehicle left without reporting the incident or leaving any contact information at the scene."
+}, {
+	"label": "1",
+	"data": "A staff member reported his USC parking permit missing."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A staff member was examined and released at the scene after complaining of chest pain and difficulty breathing."
+}, {
+	"label": "1",
+	"data": "A non-USC male reported his skateboard missing."
+}, {
+	"label": "1",
+	"data": "A suspect was detained for questioning after he was observed drinking alcohol inside a vehicle parked illegally in the alley behind the location and the vehicle was subsequently towed to an impound yard when it was determined that he did not have a valid driver's license."
+}, {
+	"label": "2",
+	"data": "A student reported that an on-going feud between his family and his girlfriend's family has caused him to fear for his safety."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported within the facility for medical treatment after falling and injuring her chin, chest and shoulder."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "2",
+	"data": "A suspect used an unknown object to scratch the paint on the passenger side of a non-USC female's vehicle."
+}, {
+	"label": "1",
+	"data": "A faculty member reported that the rear bumper was damaged while her vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A non-USC female was examined and released at the scene after injuring her foot."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released at the scene after he walked into a wire that was strung across the sidewalk in front of the location and fell to the ground."
+}, {
+	"label": "2",
+	"data": "A staff member reported receiving a package at her residence from a former student who was issued a University 'stay away' letter due to his continued harassment of staff members at the location and it has caused her to fear for her safety."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by cigarette smoke."
+}, {
+	"label": "2",
+	"data": "A student was struck by a golf cart while walking near the location. The student sustained a concussion and injuries to both knees and was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A staff member was injured from a fall."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for underage possession of alcohol."
+}, {
+	"label": "3",
+	"data": "A trespassing suspect was arrested for possession of a controlled substance."
+}, {
+	"label": "4",
+	"data": "A student was anonymously reported to have been sexually assaulted."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for removing a purse from a student's vehicle."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after complaining of chest pain."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student reported that he was tricked into purchasing gift cards and providing the access codes to a suspect to pay for a security upgrade after being told that his phone was susceptible to being hacked."
+}, {
+	"label": "1",
+	"data": "A student reported that he has been receiving harassing and threatening text messages and phone calls from another student following a business dispute."
+}, {
+	"label": "1",
+	"data": "A staff member discovered unreported damage to the rear passenger side wheel rim during a routine inspection of a University vehicle."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after falling and hitting his head."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after injuring his finger."
+}, {
+	"label": "2",
+	"data": "A suspect removed a camera and accessories."
+}, {
+	"label": "2",
+	"data": "A suspect removed an in-dash stereo and two jackets."
+}, {
+	"label": "2",
+	"data": "An unidentified suspect made racially inflammatory statements and threatened an officer during a call to the DPS dispatch center."
+}, {
+	"label": "2",
+	"data": "A suspect removed a pair of shoes."
+}, {
+	"label": "2",
+	"data": "A student experiencing pregnancy related issues was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A suspect attempted to pry open two doors to gain entry to the location."
+}, {
+	"label": "3",
+	"data": "A suspect used a rock to smash the front and rear windshields of a staff member's vehicle while it was parked near the location."
+}, {
+	"label": "2",
+	"data": "A student was treated and released at the scene after suffering an allergic reaction to food he had eaten."
+}, {
+	"label": "2",
+	"data": "A suspect used a rock to smash the front windshield and the driver's and passenger side windows of a student's vehicle while it was parked at the location."
+}, {
+	"label": "3",
+	"data": "A faculty member reported that she observed a suspect masturbating inside a restroom at the location. The suspect fled and he could not be located during a subsequent search of the area."
+}, {
+	"label": "2",
+	"data": "A suspect on a motorized scooter approached a student and her mother as they were walking near the location and threatened to shoot the mother if she did not hand over her wallet. The student began yelling for help and the suspect fled without removing any property."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "1",
+	"data": "Two bike theft suspects were detained for investigation, questioned and released."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "1",
+	"data": "A non-USC male was detained for questioning after he was observed attempting to gain entry to the location during restricted hours. The male stated he was attempting to retrieve his backpack from his sister and after she brought it to him he left the premises without further incident."
+}, {
+	"label": "2",
+	"data": "A student reported that she has been having on-going problems with her roommates and desires to move to another apartment."
+}, {
+	"label": "2",
+	"data": "A vehicle fire was reported on the third floor of the location, but it was subsequently determined that smoke from the vehicle was due to it overheating and there was no fire."
+}, {
+	"label": "2",
+	"data": "A suspect removed a laptop computer and two pairs of headphones."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "Roommate dispute. They agreed to settle their dispute with SJACS."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by steam from a shower."
+}, {
+	"label": "2",
+	"data": "A suspect was detained for investigation after he was observed pulling on a door handle to gain entry to a staff member's vehicle, but there was insufficient evidence of a crime having been committed and he was subsequently released."
+}, {
+	"label": "2",
+	"data": "A student was treated and released at the scene after falling and sustaining abrasions to his hand and elbows."
+}, {
+	"label": "3",
+	"data": "Water was reported to be leaking from a ceiling vent in the lobby of the location. FMS personnel were requested and responded to clean up and conduct repairs."
+}, {
+	"label": "2",
+	"data": "A suspect removed the vehicle battery."
+}, {
+	"label": "2",
+	"data": "A suspect used unknown means to make an unauthorized purchase on a student's credit card account."
+}, {
+	"label": "2",
+	"data": "A student on a skateboard collided with a non-USC female's vehicle, causing unspecified damage. The student sustained a cut to his forehead and multiple abrasions and was transported to a local hospital for medical treatment."
+}, {
+	"label": "1",
+	"data": "A student reported a USC ID, a pair of glasses and a calculator missing."
+}, {
+	"label": "3",
+	"data": "A non-USC female was involved in a business dispute with her mother at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A staff member was examined and released at the scene after complaining of dizziness."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone, a USC ID and a credit card."
+}, {
+	"label": "2",
+	"data": "A non-USC male drove his personal vehicle into a staff member's personal vehicle, causing minor damage."
+}, {
+	"label": "4",
+	"data": "A suspect was arrested for starting a fire on a sidewalk near the location."
+}, {
+	"label": "1",
+	"data": "A student was cited for hosting an unauthorized event."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after injuring his shoulder."
+}, {
+	"label": "1",
+	"data": "A student reported that another student threatened him."
+}, {
+	"label": "3",
+	"data": "An unidentified male who was involved in a two vehicle traffic collision near the location drove away without stopping to identify"
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported within the facility for medical treatment after complaining of chest pains."
+}, {
+	"label": "3",
+	"data": "A non-USC female drove her vehicle into a staff member's vehicle, causing unspecified damage. Both drivers sustained minor injuries and were treated and released at the scene."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by smoke from burnt food."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a gas can from the bed of a pickup truck."
+}, {
+	"label": "1",
+	"data": "A suspect removed the registration and insurance slips."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for using a fake ID to purchase alcohol at the location."
+}, {
+	"label": "2",
+	"data": "A student drove his vehicle into a parked University vehicle, causing minor damage."
+}, {
+	"label": "3",
+	"data": "Two suspects struck a staff member with their skateboards during a confrontation outside the location. The suspects then fled and they could not be located during a subsequent search of the area. The staff member was not injured."
+}, {
+	"label": "2",
+	"data": "A suspect used a marking pen to write graffiti on a wall on the top level of the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a coffee table."
+}, {
+	"label": "2",
+	"data": "A welfare check was conducted on a student at the location after he reportedly made statements about harming himself. The student was unharmed when contacted and he was subsequently released into the care of his parents."
+}, {
+	"label": "1",
+	"data": "A non-USC male reported his wallet and cellular phone missing."
+}, {
+	"label": "2",
+	"data": "A staff member used unknown means to remove two immobilization boots that were placed on his vehicle due to multiple outstanding citations."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to seek medical treatment on his own after injuring his ankle."
+}, {
+	"label": "3",
+	"data": "A suspect removed a video game console, a pair of headphones and a basketball."
+}, {
+	"label": "3",
+	"data": "Water was observed to be leaking from a broken pipe inside the location and flooding a room. FMS personnel were then requested to clean up and conduct repairs."
+}, {
+	"label": "1",
+	"data": "A student was cited to Judicial Affairs for a campus bike policy violation."
+}, {
+	"label": "2",
+	"data": "A student reported that an acquaintance has been attempting to contact her via social media after she ended communication with him and it has caused her to feel uncomfortable."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A suspect approached a student as she was walking near the location and attempted to pull her purse off her shoulder. A struggle ensued, during which the purse strap broke and the student fell to the ground. The suspect then grabbed the purse and fled from sight."
+}, {
+	"label": "3",
+	"data": "A non-USC male drove his vehicle into a student's parked vehicle then drove away without stopping to report the incident or leave any contact information at the scene. The male was subsequently detained by officers and his contact information was obtained for the student."
+}, {
+	"label": "2",
+	"data": "A non-USC male reported that someone left two vulgar notes on his vehicle while it was parked at the location."
+}, {
+	"label": "1",
+	"data": "A staff member was banned from the coffee shop at the location after he berated and threatened another staff member who was attempting to serve him."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A staff member was struck by a vehicle while riding his skateboard near the location. The staff member sustained an injury to his leg and he was transported to SHC for medical treatment."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "A staff member reported that a package containing ten prescription medication tablets was missing from a narcotics cabinet."
+}, {
+	"label": "1",
+	"data": "A staff member reported damage to a sanitary dispenser in a female restroom."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after falling and hitting his head."
+}, {
+	"label": "1",
+	"data": "Two juveniles who were on campus for a field trip were involved in a physical altercation. The fight was stopped by the students' teachers and they were subsequently turned over to their parents."
+}, {
+	"label": "2",
+	"data": "A faculty member reported his bicycle stolen."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after sustaining a cut to his lip."
+}, {
+	"label": "2",
+	"data": "A staff member driving a University tram collided with a non-USC male driving his personal vehicle, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for trespassing at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported within the facility for medical treatment after injuring her knee."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "1",
+	"data": "A suspect removed a computer monitor."
+}, {
+	"label": "3",
+	"data": "Water leaking through the ceiling flooded multiple rooms in the basement of the location. FMS personnel were requested and responded to clean up and conduct repairs."
+}, {
+	"label": "2",
+	"data": "A suspect removed a pair of headphones and an external hard drive."
+}, {
+	"label": "2",
+	"data": "A suspect removed currency from a purse."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after complaining of stomach pains."
+}, {
+	"label": "2",
+	"data": "A suspect snatched a cellular phone from a student's hand as he was exiting a Metro train at the location then fled from sight."
+}, {
+	"label": "2",
+	"data": "A non-USC female was treated and released at the scene after injuring her knees."
+}, {
+	"label": "2",
+	"data": "A student reported that he was involved in a verbal dispute with another student at the location."
+}, {
+	"label": "3",
+	"data": "A staff member reported that her vehicle was struck by another vehicle while it was parked at the location and the driver of the second vehicle left without reporting the incident or leaving any contact information at the scene."
+}, {
+	"label": "3",
+	"data": "A prowling suspect was arrested for possession of a controlled substance."
+}, {
+	"label": "1",
+	"data": "A student reported his wallet missing."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to SHC for medical treatment after injuring her knee."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after complaining of fatigue and feeling light headed."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "3",
+	"data": "A suspect shot at a window several times with a BB gun, causing it to shatter."
+}, {
+	"label": "2",
+	"data": "A suspect removed currency, clothing, a cell phone charger and a pair of sunglasses."
+}, {
+	"label": "2",
+	"data": "A student reported that another student has been sending him unwanted email and social media messages for nearly two years."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of a friend."
+}, {
+	"label": "1",
+	"data": "A party hosted by a student at the location was shut down due to noise complaints and an overflow crowd blocking the street."
+}, {
+	"label": "3",
+	"data": "A witness reported that he observed a vehicle collide with a parked vehicle inside the location and the driver of the first vehicle left without reporting the incident or leaving any contact information at the scene."
+}, {
+	"label": "3",
+	"data": "A suspect broke a bedroom window by throwing a frozen juice box at it."
+}, {
+	"label": "2",
+	"data": "A suspect removed a tote bag."
+}, {
+	"label": "1",
+	"data": "A suspect removed miscellaneous paperwork."
+}, {
+	"label": "2",
+	"data": "A non-USC male backed his vehicle into a tree, damaging the rear passenger side window."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "Nine students were cited to Judicial Affairs for underage possession of alcohol and seven of them were also cited for possession of fake Id's."
+}, {
+	"label": "3",
+	"data": "A bike theft suspect was arrested for shoving a DPS officer."
+}, {
+	"label": "2",
+	"data": "A suspect removed a golf bag."
+}, {
+	"label": "2",
+	"data": "A non-USC female was examined and released to seek medical treatment on her own after complaining of abdominal pain."
+}, {
+	"label": "3",
+	"data": "A water leak was reported in a restroom at the location. FMS personnel were requested and responded to clean up and conduct repairs."
+}, {
+	"label": "1",
+	"data": "A staff member reported that he observed a vehicle collide with a campus perimeter fence at the location and the driver left the scene without stopping to report the incident."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported to a local hospital for medical treatment after complaining of difficulty breathing."
+}, {
+	"label": "4",
+	"data": "Unknown suspect pointed an air gun at a non_USC male and fled. No further incident."
+}, {
+	"label": "2",
+	"data": "A suspect removed the seat and head lamp from a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A contractor who was painting a balcony at the location was arrested for forcibly gaining unauthorized entry to a student's apartment and ransacking the interior."
+}, {
+	"label": "2",
+	"data": "A theft suspect was arrested for an outstanding warrant."
+}, {
+	"label": "3",
+	"data": "A bike theft suspect was arrested for possession of drug paraphernalia and three outstanding warrants."
+}, {
+	"label": "2",
+	"data": "A non-USC male drove his vehicle into another non-USC male's vehicle, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after injuring her ankle."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by smoke from burnt food."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "4",
+	"data": "A student reported that she was sexually assaulted."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "2",
+	"data": "Two students were involved in a verbal altercation at the location."
+}, {
+	"label": "2",
+	"data": "A staff member reported receiving an annoying phone call from a subject attempting to contact the faculty member for whom she works and it caused her concern because the subject knew the home address of the faculty member."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing a student's bicycle from the location."
+}, {
+	"label": "1",
+	"data": "An entrance door was damaged by unknown means."
+}, {
+	"label": "1",
+	"data": "A student reported his cellular phone missing."
+}, {
+	"label": "2",
+	"data": "A non-USC female was examined and released at the scene after injuring her wrist."
+}, {
+	"label": "4",
+	"data": "Three suspects approached a male student from behind. One suspect displayed a handgun. Another suspect punched him in the face and grabbed the student's cell phone. All three suspects fled away."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported to a local hospital for medical treatment after experiencing an allergic reaction to an unspecified substance."
+}, {
+	"label": "3",
+	"data": "A student reported that a suspect pushed him without provocation as he was walking past the subject outside the location. The suspect then fled on foot and disappeared from sight."
+}, {
+	"label": "2",
+	"data": "A student reported his registered bicycle stolen."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of a friend."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A female student was transported to a hospital after fainting."
+}, {
+	"label": "2",
+	"data": "A non-USC male who was involved in a verbal dispute with his girlfriend near the location was arrested for two outstanding warrants."
+}, {
+	"label": "2",
+	"data": "LAFD responded to the location to free four students who were trapped in an elevator."
+}, {
+	"label": "3",
+	"data": "A suspect approached a staff member from behind as she was walking near the location and snatched her cellular phone from her hand. The suspect then fled to a waiting vehicle and drove away."
+}, {
+	"label": "1",
+	"data": "A staff member reported that the driver's side doors were damaged while her vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of her friends."
+}, {
+	"label": "2",
+	"data": "A student and her boyfriend were involved in a verbal altercation near the location."
+}, {
+	"label": "3",
+	"data": "A suspect used unknown means to dent the driver's side door frame of a student's vehicle while it was parked at the location."
+}, {
+	"label": "3",
+	"data": "Officers responded to a report of a water leak at the location and upon their arrival they determined that it was coming from a ruptured water main. LAFD was requested and responded to shut off the water main, then the DWP responded to conduct repairs."
+}, {
+	"label": "2",
+	"data": "A theft suspect was arrested for an outstanding warrant."
+}, {
+	"label": "1",
+	"data": "A visitor was cited for displaying an altered parking permit."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student drove her vehicle into a parking garage gate, knocking it off it's track."
+}, {
+	"label": "2",
+	"data": "A student was arrested for removing merchandise from the location without paying for it, cited and released."
+}, {
+	"label": "2",
+	"data": "A male student fell from his skateboard causing injury to his right hand. He was transported to a hospital."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bag containing miscellaneous household items."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after falling and hitting his head."
+}, {
+	"label": "2",
+	"data": "An indecent exposure suspect was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A staff member reported that he was concerned about the safety of a student after receiving conflicting information from a psychologist who examined him."
+}, {
+	"label": "2",
+	"data": "A non-USC male was examined and released to proceed to his previously scheduled doctor's appointment after complaining of weakness in his legs."
+}, {
+	"label": "2",
+	"data": "A suspect kicked a hole in a sign outside the location."
+}, {
+	"label": "3",
+	"data": "A suspect on a bicycle approached a non-USC female from behind as she was walking near the location and attempted to snatch her cellular phone from her hand. A struggle ensued and the female managed to maintain control of the phone. The suspect then rode away and disappeared from sight."
+}, {
+	"label": "2",
+	"data": "A car service driver was arrested for threatening a staff member who asked him to move his vehicle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack and a skateboard."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported into the facility for medical treatment after falling and sustaining cuts to her head and wrist."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after fainting."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "A staff member drove over tire spikes causing damage to the front and rear tires."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after injuring his foot."
+}, {
+	"label": "3",
+	"data": "Unknown suspect entered a non-USC male's apartment window and removed a backpack, electronics, and sunglasses."
+}, {
+	"label": "2",
+	"data": "A student reported that her ex-boyfriend continues to attempt to make contact with her after she asked him not to do so."
+}, {
+	"label": "3",
+	"data": "A trespassing suspect was arrested for possession of a controlled substance."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A student reported that her roommate, also a student, grabbed her by both arms and slammed her against a wall during an argument. The reporting student sustained bruises to her arm, but did not desire medical treatment or criminal prosecution of the matter."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by smoke from a kitchen stove."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A suspect removed two laptop computers, currency, a pair of headphones and a camera lens."
+}, {
+	"label": "2",
+	"data": "A non-USC male drove his company vehicle into an unidentified subject's parked vehicle, causing minor damage."
+}, {
+	"label": "2",
+	"data": "A non-USC male was transported to a local hospital for medical treatment after suffering a seizure."
+}, {
+	"label": "2",
+	"data": "A suspect removed a pair of running shoes."
+}, {
+	"label": "1",
+	"data": "A student reported her passport missing."
+}, {
+	"label": "1",
+	"data": "A student was cited to Judicial Affairs for belligerent behavior with security staff who advised him that he could not take alcohol outside the restaurant at the location."
+}, {
+	"label": "2",
+	"data": "A non-USC male was examined and released at the scene after falling inside the location."
+}, {
+	"label": "1",
+	"data": "A student reported her USC parking permit missing."
+}, {
+	"label": "3",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a skateboard."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A non-USC male was examined and released at the scene after fainting."
+}, {
+	"label": "3",
+	"data": "A student reported that an unidentified male punched her in the face without provocation during a concert at the location."
+}, {
+	"label": "2",
+	"data": "A student collided with a vehicle while riding his bicycle near the location. The student sustained unspecified injuries and was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A lewd conduct suspect was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to seek medical treatment on his own after injuring his Achilles tendon."
+}, {
+	"label": "2",
+	"data": "A non-USC male was transported to a local hospital for medical treatment after suffering an allergic reaction to a MRI dye."
+}, {
+	"label": "4",
+	"data": "A suspect removed a department issued two way radio."
+}, {
+	"label": "2",
+	"data": "A suspect removed the handlebars from a bicycle."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A non-USC female reported that the behavior of a security guard stationed at the location is making her feel uncomfortable."
+}, {
+	"label": "1",
+	"data": "A fire alarm was activated by steam from a ruptured hot water pipe in a laundry room. FMS personnel were requested and responded to turn off the water and conduct repairs."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was cited to Judicial Affairs for uncooperative and belligerent behavior with DPS officers who detained him for a trespassing investigation."
+}, {
+	"label": "2",
+	"data": "A student reported that he was a victim of an email scam."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after sustaining a cut to his finger."
+}, {
+	"label": "2",
+	"data": "A juvenile was transported to a local hospital for medical treatment after injuring her ankle."
+}, {
+	"label": "3",
+	"data": "A student was detained for questioning after he was observed slapping another student on the hip near the location. The second student did not desire criminal prosecution of the matter and the first student was subsequently released."
+}, {
+	"label": "4",
+	"data": "A student reported that another student, whom she declined to identify, has touched her inappropriately on multiple occasions."
+}, {
+	"label": "2",
+	"data": "A non-USC female backed her vehicle into a staff member's vehicle, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of severe abdominal pain."
+}, {
+	"label": "2",
+	"data": "A non-USC female reported that a suspect threatened her after she ignored his attempts to get her attention."
+}, {
+	"label": "4",
+	"data": "A suspect on a motorized scooter approached a student who was walking near the location, demanded her wallet and threatened to shoot her if she did not comply. When the student stated that she did not have any money the suspect forced her to walk to a nearby ATM where she was unable to make a withdrawal. The suspect then followed the student to her residence where she located a box filled with coins. The student handed over the coins and the suspect fled on the scooter."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A student reported receiving annoying text from her former boyfriend."
+}, {
+	"label": "2",
+	"data": "An intoxicated non-USC male unable to care for himself was transported to a detox facility."
+}, {
+	"label": "3",
+	"data": "Water was observed to be flooding the floor outside a room on the first floor of the location, but the source could not be determined at the time of the report. FMS personnel were requested and responded to clean up and conduct repairs."
+}, {
+	"label": "2",
+	"data": "A student injured herself while playing frisbee."
+}, {
+	"label": "1",
+	"data": "A fire lane sign was damaged by unknown means."
+}, {
+	"label": "1",
+	"data": "A fire alarm was activated by water mist from pressure washers being used on the walls of the parking garage at the location."
+}, {
+	"label": "1",
+	"data": "A student reported his driver's license missing."
+}, {
+	"label": "2",
+	"data": "Two staff members were involved in a verbal dispute over a parking space near the location."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after complaining of dizziness and feeling faint."
+}, {
+	"label": "2",
+	"data": "cc"
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "2",
+	"data": "A student driving her personal vehicle collided with a non-USC male driving his personal vehicle, causing unspecified damage."
+}, {
+	"label": "1",
+	"data": "A staff member reported his department issued two way radio missing."
+}, {
+	"label": "2",
+	"data": "A suspect removed three cellular phones."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "1",
+	"data": "A student's vehicle was immobilized for displaying an altered USC parking permit."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by a malfunction."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported to a local hospital for medical treatment after injuring her knee."
+}, {
+	"label": "1",
+	"data": "A student's vehicle was immobilized for displaying an altered USC parking pass."
+}, {
+	"label": "4",
+	"data": "A non-USC female reported that she was sexually assaulted by a student."
+}, {
+	"label": "2",
+	"data": "A student who reported that he was suffering from symptoms of alcohol withdrawal was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A student reported that her apartment front door was damaged by someone kicking it open."
+}, {
+	"label": "2",
+	"data": "A staff member reported that during a phone conversation a patient made multiple statements about her doctor which sounded threatening."
+}, {
+	"label": "2",
+	"data": "A suspect on a bicycle removed a cellular phone from a student's backpack as he rode past her."
+}, {
+	"label": "1",
+	"data": "A student reported the rear license plate missing from his vehicle."
+}, {
+	"label": "3",
+	"data": "A suspect climbed onto a balcony and opened an unsecured sliding glass door to gain entry to an apartment. The suspect ransacked the interior, but it could not be determined if any property had been removed at the time of the report."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone."
+}, {
+	"label": "3",
+	"data": "A non-USC male was arrested for driving under the influence of alcohol after he collided with two vehicles at the location."
+}, {
+	"label": "3",
+	"data": "A suspect used unknown means to make several unauthorized purchases on a student's debit card account."
+}, {
+	"label": "2",
+	"data": "A staff member reported that she injured her hip when she slipped and fell outside the location. The staff member sought medical treatment on her own."
+}, {
+	"label": "2",
+	"data": "A suspect removed dental equipment."
+}, {
+	"label": "1",
+	"data": "A staff member was cited for altering a parking permit."
+}, {
+	"label": "2",
+	"data": "A suspect removed a package that was delivered to the location."
+}, {
+	"label": "1",
+	"data": "A staff member reported that contractors painting a handrail splattered paint on the hood and front bumper of her vehicle while it was parked at the location."
+}, {
+	"label": "1",
+	"data": "A student reported that the front bumper was damaged while her vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A non-USC male was transported inside the facility for medical treatment after falling and sustaining a cut above his eye."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "1",
+	"data": "A staff member reported that the rear passenger side door was damaged while her vehicle was parked at the location."
+}, {
+	"label": "3",
+	"data": "A suspect removed an unknown quantity of basketball and volleyball equipment."
+}, {
+	"label": "1",
+	"data": "A suspect removed a suit and two shirts."
+}, {
+	"label": "2",
+	"data": "A juvenile was treated and released into the care of her chaperone after injuring her ankle."
+}, {
+	"label": "3",
+	"data": "Three students were cited to Judicial Affairs for accessing the roof of the location without authorization."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student reported that the hood was damaged when a suspect jumped on her vehicle while it was parked at the location."
+}, {
+	"label": "1",
+	"data": "A student reported his passport missing."
+}, {
+	"label": "2",
+	"data": "A suspect removed two cellular phones, a wallet and a credit card."
+}, {
+	"label": "3",
+	"data": "A student and a non-USC male were involved in a physical altercation at the location. Neither party desired criminal prosecution of the matter."
+}, {
+	"label": "4",
+	"data": "A suspect used unknown means to burn a plastic trash can inside a restroom on the second floor of the location. The suspect also used a marking pen to draw graffiti on the restroom walls."
+}, {
+	"label": "2",
+	"data": "LAFD responded to the location to free a person who was trapped in an elevator."
+}, {
+	"label": "2",
+	"data": "Two students were involved in a verbal altercation at the location."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of severe stomach pain."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of a friend."
+}, {
+	"label": "2",
+	"data": "Two suspects who were observed loitering outside the location were detained for questioning and one of them was subsequently arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A suspect removed two cellular phones."
+}, {
+	"label": "2",
+	"data": "A staff member reported that he has been the subject of on-going harassment by another staff member."
+}, {
+	"label": "2",
+	"data": "A staff member was examined and released to seek medical treatment on her own after injuring her arm."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after injuring his shoulder."
+}, {
+	"label": "2",
+	"data": "A juvenile was arrested for spray painting graffiti on a wall near the location, cited and released to his guardian."
+}, {
+	"label": "1",
+	"data": "A staff member reported his USC ID missing."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported to a local hospital for medical treatment after complaining of difficulty breathing and dizziness."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "A staff member reported that both sides of his vehicle were scratched while it was parked at the location."
+}, {
+	"label": "1",
+	"data": "A staff member reported a University electric cart missing."
+}, {
+	"label": "2",
+	"data": "A suspect removed several pieces of rebar from a construction site."
+}, {
+	"label": "2",
+	"data": "A staff member reported that someone placed a piece of cardboard in between the latches of a double door at the location, preventing it from being secured. The cardboard was removed and the door was secured."
+}, {
+	"label": "3",
+	"data": "A suspect removed a laptop computer, two tablet computers and two backpacks."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of her roommates."
+}, {
+	"label": "2",
+	"data": "Three students were cited to Judicial Affairs for driving a University electric cart without authorization."
+}, {
+	"label": "1",
+	"data": "A staff member reported that he accidentally broke the driver's side view mirror on an unidentified subject's parked vehicle when he bumped into it."
+}, {
+	"label": "3",
+	"data": "A student reported that he is being sexually harassed by his roommate."
+}, {
+	"label": "2",
+	"data": "A suspect removed the front wheel from a bicycle."
+}, {
+	"label": "2",
+	"data": "After a review of camera footage, an unidentified male was seen taking cologne and sandals without paying for them."
+}, {
+	"label": "3",
+	"data": "A suspect approached a non-USC female from behind and attempted to pull her purse off her shoulder. A struggle ensued, during which the suspect punched the female several times. The female was able to maintain possession of her purse and the suspect fled from sight."
+}, {
+	"label": "2",
+	"data": "A student reported that another student continues to call him after being asked not to do so."
+}, {
+	"label": "3",
+	"data": "A waste bag containing radioactive waste triggered an alarm."
+}, {
+	"label": "4",
+	"data": "Officers responded to a report of a man with a gun at the location, but they were unable to locate the suspect during a subsequent search of the area."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A non-USC male was struck by a vehicle while crossing the street at the location. The male sustained unspecified injuries and was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of a friend."
+}, {
+	"label": "2",
+	"data": "A suspect removed an electric scooter."
+}, {
+	"label": "2",
+	"data": "A non-USC male was transported to a local hospital for medical treatment after falling and hitting his head."
+}, {
+	"label": "2",
+	"data": "A suspect was detained for removing merchandise from the location without paying for it. The property was recovered and the suspect was released after being advised that he would be arrested for trespassing if he returned to the store."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A bike theft suspect was arrested for possession of burglary tools."
+}, {
+	"label": "3",
+	"data": "A suspect exited a vehicle and threw an egg at a security guard stationed at the location. The suspect then returned to the vehicle and drove away."
+}, {
+	"label": "2",
+	"data": "A non-USC female suffering from an unspecified illness was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A suspect removed a laptop computer."
+}, {
+	"label": "3",
+	"data": "A student reported that a suspect punched him in the face without provocation outside the location and pushed his female companion to the ground. The suspect then fled the scene in an unknown direction."
+}, {
+	"label": "2",
+	"data": "FMS personnel responded to the location to free a staff member who was trapped in an elevator."
+}, {
+	"label": "1",
+	"data": "A suspect was removed from a picnic being held outside the location and escorted off campus after entering without an invitation and yelling profanities and insults at the guests."
+}, {
+	"label": "3",
+	"data": "A non-USC male was arrested for pushing a staff member to the ground and punching him in the back while attempting to jump into the pool following a water polo match."
+}, {
+	"label": "3",
+	"data": "A staff member was struck by a vehicle while walking near the location. The staff member sustained an injury to her arm, but did not desire medical treatment."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "3",
+	"data": "A theft suspect was arrested for two outstanding warrants and possession of a controlled substance."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "2",
+	"data": "University-owned vehicle was involved in a traffic accident. No injuries."
+}, {
+	"label": "4",
+	"data": "A non-USC male reported that a suspect threatened him with a knife when he refused to allow the subject to use his cellular phone. A witness intervened and the suspect subsequently fled on foot and disappeared from sight."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A student reported that another student pushed him to the ground without provocation while he was walking near the location."
+}, {
+	"label": "3",
+	"data": "A non-USC male was detained and turned over to LAPD officers for investigation after he was reported to have fled the scenes of two traffic collisions near the location."
+}, {
+	"label": "2",
+	"data": "USC Campus Cruiser involved in a traffic collision."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for possession of a fake Id."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "2",
+	"data": "A suspect removed a phone charger."
+}, {
+	"label": "2",
+	"data": "A student driving his personal vehicle collided with a non-USC male driving his personal vehicle, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after sustaining a cut to his forehead."
+}, {
+	"label": "2",
+	"data": "A suspect removed six coffee mugs."
+}, {
+	"label": "2",
+	"data": "A suspect used unknown means to make eight unauthorized purchases on a student's credit card account."
+}, {
+	"label": "2",
+	"data": "A staff member suffered stomach pains. Paramedics assisted and released the staff member in the company of his family."
+}, {
+	"label": "1",
+	"data": "A staff member reported a parking sign missing from the sidewalk outside the location."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for an outstanding warrant."
+}, {
+	"label": "3",
+	"data": "A staff member reported that another staff member struck him in the forehead with a surgical instrument without provocation."
+}, {
+	"label": "2",
+	"data": "A student was arrested for public intoxication after becoming combative with officers who detained him for questioning."
+}, {
+	"label": "2",
+	"data": "A student was transported to SHC for medical treatment after falling and sustaining cuts and abrasions to his lip, elbows and knees."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "4",
+	"data": "A non-USC female was found lying down on a public sidewalk conscious and breathing. She was uncooperative to police and fire personnel attempting to give her aide. She refused to provide information about her condition."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "2",
+	"data": "A prowling suspect was arrested for an outstanding warrant."
+}, {
+	"label": "4",
+	"data": "A suspect was arrested for sexual battery on a non-USC female."
+}, {
+	"label": "2",
+	"data": "A non-USC female was examined and released at the scene after complaining of dizziness and nausea."
+}, {
+	"label": "2",
+	"data": "A suspect removed a GPS unit."
+}, {
+	"label": "2",
+	"data": "A faculty member was transported to a local hospital for medical treatment after injuring his knee."
+}, {
+	"label": "1",
+	"data": "A suspect was arrested for prowling in the bike racks outside the location."
+}, {
+	"label": "3",
+	"data": "A suspect removed a speaker."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of a severe headache and feeling faint."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for throwing coffee at an employee who attempted to detain her during the commission of a theft at the location."
+}, {
+	"label": "1",
+	"data": "A student reported that her vehicle was struck by another vehicle while it was parked at the location and the driver of the second vehicle left without reporting the incident or leaving any contact information at the scene."
+}, {
+	"label": "3",
+	"data": "A prowling suspect was arrested for possession of a controlled substance."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by a malfunctioning smoke detector."
+}, {
+	"label": "1",
+	"data": "A staff member reported her department issued badge missing."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of a friend."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after sustaining a cut to his chin."
+}, {
+	"label": "4",
+	"data": "A suspect removed several tools."
+}, {
+	"label": "2",
+	"data": "A student was transported to a hospital for back pains."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for an outstanding warrant."
+}, {
+	"label": "1",
+	"data": "Employee reported her uniform and equipment missing."
+}, {
+	"label": "2",
+	"data": "A suspect removed a skateboard."
+}, {
+	"label": "2",
+	"data": "A suspect removed an external hard drive."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for trespassing after she was observed harassing passersby and blocking a vehicle exit at the location."
+}, {
+	"label": "3",
+	"data": "A suspect removed two texture sprayers."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "A fire alarm was activated by dust from construction."
+}, {
+	"label": "2",
+	"data": "A suspect used unknown means to make two unauthorized purchases on a student's credit card account."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect used a marking pen to draw graffiti on the entrance doors at the location."
+}, {
+	"label": "3",
+	"data": "An intoxicated student was examined and released into the care of his roommate."
+}, {
+	"label": "1",
+	"data": "A student reported her wallet missing from her purse."
+}, {
+	"label": "2",
+	"data": "Officers responded to a report of union representatives occupying several tables while conducting business inside the cafeteria at the location, thus preventing patrons from being seated. The reps were asked to move to a conference room and they complied without incident."
+}, {
+	"label": "2",
+	"data": "LAFD responded to the location to free a non-USC male who was trapped in an elevator."
+}, {
+	"label": "4",
+	"data": "A suspect approached a non-USC male at the location and snatched his cellular phone from his hand. The suspect then fled on foot and disappeared from sight."
+}, {
+	"label": "2",
+	"data": "A suspect removed a dental tool."
+}, {
+	"label": "2",
+	"data": "A staff member reported receiving multiple threatening and annoying phone calls and voice mail messages from a suspect who was previously served with a University 'stay away' letter."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for threatening to burn down the fraternity house after a member asked him to leave the premises."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of severe abdominal pain."
+}, {
+	"label": "2",
+	"data": "A suspect removed a skateboard."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing a student's bicycle from the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after injuring his hamstring."
+}, {
+	"label": "2",
+	"data": "Officers responded to a report of a suspect yelling obscenities and harassing students and staff in the cafeteria at the location, but the subject fled before their arrival and could not be located during a subsequent search of the area."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after sustaining a cut to his finger."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "2",
+	"data": "A student was transported to SHC for medical treatment after falling and hitting her head."
+}, {
+	"label": "2",
+	"data": "A staff member reported that a bus driver transporting juveniles participating in a University program was relieved of duty as a safety precaution."
+}, {
+	"label": "2",
+	"data": "A staff member was examined and released to seek medical treatment on her own after experiencing an elevated heart rate."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A student reported that his roommate threatened him during a verbal dispute at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a desktop computer."
+}, {
+	"label": "3",
+	"data": "A security guard was punched several times by a shoplifting suspect while attempting to detain him. The suspect then fled on foot and disappeared from sight."
+}, {
+	"label": "2",
+	"data": "A staff member reported that a security guard sprayed him with pepper spray during a dispute at the location."
+}, {
+	"label": "2",
+	"data": "A child was examined and released into the care of his father after falling and hitting his head."
+}, {
+	"label": "2",
+	"data": "A patient tripped and fell resulting in her being taken in for treatment."
+}, {
+	"label": "2",
+	"data": "A student reported receiving several harassing messages from an unidentified subject on a social media site and it is causing him to feel uncomfortable."
+}, {
+	"label": "4",
+	"data": "A suspect removed a silver, 2005 Honda Civic that was parked outside the location."
+}, {
+	"label": "3",
+	"data": "A suspect removed a laptop computer."
+}, {
+	"label": "2",
+	"data": "A staff member reported receiving unwanted emails from a vendor."
+}, {
+	"label": "1",
+	"data": "A staff member reported that the rear passenger side quarter panel was damaged while her vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for an outstanding warrant."
+}, {
+	"label": "3",
+	"data": "A student was struck by a vehicle while riding her bicycle near the location. The student sustained an abrasion to her leg, but she did not desire medical treatment."
+}, {
+	"label": "2",
+	"data": "A suspect approached a student from behind as he was walking near the location and snatched a set of keys that were attached to his pants pocket. The suspect then fled on foot and disappeared from sight."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after falling and injuring his back and ribs."
+}, {
+	"label": "2",
+	"data": "A theft suspect was arrested for an outstanding warrant."
+}, {
+	"label": "4",
+	"data": "A non-USC male reported that his boyfriend threatened him with a knife during an argument. The boyfriend was not present at the time of the report."
+}, {
+	"label": "2",
+	"data": "Officers responded to a report of a man with a gun at the location and upon their arrival they determined that the gun was a prop for a film shoot. The subjects producing the movie did not obtain a permit or advise anyone in the building of their presence prior to filming."
+}, {
+	"label": "1",
+	"data": "A discharged fire extinguisher triggered the fire alarm system."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for two outstanding warrants."
+}, {
+	"label": "3",
+	"data": "Three non-USC males were involved in a physical altercation near the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a wallet."
+}, {
+	"label": "2",
+	"data": "LAFD responded to free a student who was trapped in an elevator at the location."
+}, {
+	"label": "2",
+	"data": "A student reported that a suspect sent her an email message posing as one of her sorority sisters and attempted to trick her into"
+}, {
+	"label": "2",
+	"data": "A non-USC male drove his vehicle into a bench, causing unspecified damage."
+}, {
+	"label": "1",
+	"data": "A student reported his cellular phone missing."
+}, {
+	"label": "1",
+	"data": "A student reported that the rear bumper was damaged while his vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A welfare check was conducted on a student at the location and he was determined to be fine."
+}, {
+	"label": "2",
+	"data": "DPS officer assisted with a response team."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect smashed the rear windshield of a student's vehicle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "Three students reported receiving threatening messages from another student and it has caused them to fear for their safety."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "3",
+	"data": "An intoxicated male student was transported to a hospital."
+}, {
+	"label": "2",
+	"data": "A non-USC female driving her personal vehicle collided with a student driving her personal vehicle, causing unspecified damage."
+}, {
+	"label": "4",
+	"data": "A student reported that a suspect gave him an empty envelope in exchange for a pair of shoes he agreed to sell to the subject and when he protested a second suspect in a nearby vehicle brandished a handgun. Both suspects then drove away and disappeared from sight."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A student was treated and released at the scene after sustaining a cut to his foot."
+}, {
+	"label": "1",
+	"data": "Officers responded to a report of several unsupervised juveniles riding up and down the elevators and running in the hallways of the location. The juveniles were determined to be part of a camp being held on campus and the camp director stated that she would speak to them about their behavior."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A faculty member reported receiving an email message from a former student that caused him concern."
+}, {
+	"label": "2",
+	"data": "A non-USC female was examined and released at the scene after suffering an anxiety attack."
+}, {
+	"label": "2",
+	"data": "A student reported his registered bicycle stolen."
+}, {
+	"label": "2",
+	"data": "A non-USC male was transported to a local hospital for medical treatment after complaining of chest pain."
+}, {
+	"label": "1",
+	"data": "A staff member reported that the driver's side doors were damaged while his vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "2",
+	"data": "A manager at the location reported that five suspects were observed on a surveillance recording removing several cosmetic products from the location without paying for them."
+}, {
+	"label": "2",
+	"data": "Two suspects were arrested for removing merchandise from the location without paying for it."
+}, {
+	"label": "2",
+	"data": "A bike theft suspect was arrested for an outstanding warrant."
+}, {
+	"label": "3",
+	"data": "Student was transported for excessive alcohol consumption."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of his roommate."
+}, {
+	"label": "2",
+	"data": "An unidentified female fell outside the location and after being assisted to her feet she declined medical treatment and walked away."
+}, {
+	"label": "2",
+	"data": "A staff member backed a University vehicle into a parked University vehicle, causing minor damage."
+}, {
+	"label": "2",
+	"data": "A suspect approached a student outside the location, asked for her name and then asked her to give him her cellular phone. Fearing for her safety, the student fled on foot and the suspect did not pursue her."
+}, {
+	"label": "2",
+	"data": "A suspect used an unknown object to scratch the interior of an elevator at the location."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of abdominal pain."
+}, {
+	"label": "2",
+	"data": "A suspect removed a skateboard."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student drove a University vehicle into a non-USC female's parked vehicle, causing minor damage."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "1",
+	"data": "A staff member reported that the rear bumper was damaged while her vehicle was parked at the location."
+}, {
+	"label": "5",
+	"data": "A student was transported to a local hospital for medical treatment after consuming a large quantity of over the counter medication in an attempt to harm herself."
+}, {
+	"label": "3",
+	"data": "A staff member reported that an unidentified female backed her vehicle into his parked vehicle outside the location then drove away as he was attempting to exchange information with her."
+}, {
+	"label": "2",
+	"data": "DPS officers detained a non-USC male who was observed pinning a non-USC female to the ground in front of the location. The male was then turned over to LAPD officers who responded to the scene to take over the investigation."
+}, {
+	"label": "4",
+	"data": "A group of juveniles approached a student who was walking near the location and one of them snatched his cellular phone from his hand. The juvenile handed the phone off to a second juvenile, then all of the subjects fled on foot and disappeared from sight."
+}, {
+	"label": "2",
+	"data": "The father of a student reported that a teaching assistant sent an email message to his son that caused him concern."
+}, {
+	"label": "2",
+	"data": "A suspect removed a laptop computer."
+}, {
+	"label": "4",
+	"data": "A suspect on a bicycle rode past a student and snatched her cellular phone from her hand while she was standing outside the location. The suspect then rode away and disappeared from sight."
+}, {
+	"label": "3",
+	"data": "A student was cited to Judicial Affairs for possession of marijuana and uncooperative behavior with an RA and DPS officers."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after complaining of difficulty breathing, nausea and a headache."
+}, {
+	"label": "2",
+	"data": "A suspect removed two packages that were delivered to the location."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after suffering an allergic reaction to food she had eaten."
+}, {
+	"label": "2",
+	"data": "A staff member drove a University tram into a tree, denting the rear bumper and knocking over the tree."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for trespassing at the location."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to seek medical treatment on her own after injuring her ankle."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after experiencing chest pains."
+}, {
+	"label": "2",
+	"data": "A student was treated and released at the scene after falling and injuring her arm."
+}, {
+	"label": "3",
+	"data": "An intoxicated student was examined and released into the care of her roommates."
+}, {
+	"label": "3",
+	"data": "An intoxicated student was examined and released into the care of her friends."
+}, {
+	"label": "1",
+	"data": "A staff member reported an ID card reader missing."
+}, {
+	"label": "3",
+	"data": "A suspect used an unknown object to scratch the rear driver's side window and door of a staff member's vehicle."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "The daughter of a patient reported that an unidentified staff member attempted to 'hit on' her at the location and it caused her to feel uncomfortable."
+}, {
+	"label": "2",
+	"data": "A student was struck by a University vehicle while riding his skateboard near the location. The student was not injured."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to seek medical treatment on her own after complaining of dizziness and feeling light headed."
+}, {
+	"label": "2",
+	"data": "A student drove a University vehicle into a non-USC male's vehicle, causing minor damage."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported to a local hospital for medical treatment after injuring her shin."
+}, {
+	"label": "2",
+	"data": "A student drove his vehicle into a faculty member's vehicle, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A student was struck by a vehicle while crossing the street on his skateboard at the location. The student sustained unspecified injuries and was transported to a local hospital for medical treatment."
+}, {
+	"label": "1",
+	"data": "A staff member reported that a University sign appeared to have been damaged during a possible traffic collision."
+}, {
+	"label": "1",
+	"data": "A party was shut down at the location due to an unruly large crowd overflowing onto the public sidewalk."
+}, {
+	"label": "2",
+	"data": "A suspect removed three laptop computers."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A student was transported to a hospital for excessive alcohol consumption."
+}, {
+	"label": "4",
+	"data": "A non-USC male reported that he was sexually assaulted."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student drove his vehicle into another student's vehicle which then collided with a non-USC female's vehicle, causing minor to major damage."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for three outstanding warrants."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment after experiencing an adverse reaction to smoking marijuana and drinking alcohol."
+}, {
+	"label": "2",
+	"data": "A staff member reported that on multiple occasions a suspect has broken the toilet paper dispensers off the stall walls inside a restroom at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a speaker."
+}, {
+	"label": "3",
+	"data": "A hazardous materials alarm was activated by a faulty sensor."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A non-USC female reported her laptop computer missing."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A suspect spray painted graffiti on multiple walls on the top floor of the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student reported that a relative continues to send her text messages after being asked to stop contacting her."
+}, {
+	"label": "1",
+	"data": "A staff member reported that the rear driver's side door and quarter panel were damaged while his vehicle was parked at the location."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "1",
+	"data": "The smell of an unknown gas was reported in a laboratory at the location and Safety Office personnel responded, but they were unable to locate the source of the smell and the lab was secured for further investigation the following day."
+}, {
+	"label": "1",
+	"data": "A parking bollard outside the location was damaged by unknown means."
+}, {
+	"label": "2",
+	"data": "An intoxicated non-USC male was examined and released at the scene."
+}, {
+	"label": "3",
+	"data": "A non-USC female reported that she observed a suspect masturbating while seated inside a vehicle parked near the location"
+}, {
+	"label": "3",
+	"data": "A suspect used an unknown tool to pry open a door to gain entry to an office suite, but did not remove any property."
+}, {
+	"label": "4",
+	"data": "A suspect removed a cargo trailer that was parked at the location."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for entering campus in violation of a University 'stay away' letter."
+}, {
+	"label": "2",
+	"data": "A student was cited for public intoxication."
+}, {
+	"label": "2",
+	"data": "A USC bus was involved in a collision."
+}, {
+	"label": "2",
+	"data": "A suspect removed a wallet."
+}, {
+	"label": "1",
+	"data": "Three students reported that they have been the subjects of on-going harassment by the manager of the apartment building where they reside."
+}, {
+	"label": "4",
+	"data": "A female student reported that an unidentified male bumped into her while crossing the street. No injuries."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was cited to Judicial Affairs for underage drinking and jumping in the fountain at the location."
+}, {
+	"label": "3",
+	"data": "A fire alarm was activated from a pull station."
+}, {
+	"label": "2",
+	"data": "A staff member suffering from high blood pressure was transported to a local hospital for medical treatment."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for attempting to gain entry to vehicles parked near the location by pulling on door handles."
+}, {
+	"label": "2",
+	"data": "A suspect removed three packages from the front porch of the location."
+}, {
+	"label": "3",
+	"data": "A student reported that a suspect intentionally struck her with his shoulder to push her out of his way as he walked toward her outside the location."
+}, {
+	"label": "2",
+	"data": "A welfare check was requested on a student at the location after he sent a disturbing text message to an acquaintance. The student was not present when officers arrived, but they subsequently contacted him by phone and concluded that he was not a threat to himself or others."
+}, {
+	"label": "3",
+	"data": "A student collided with a vehicle door that was opened in his path as he was riding an electric scooter near the location. The student sustained an injury to his arm and was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A student driving her personal vehicle collided with a non-USC female driving her personal vehicle, causing minor damage."
+}, {
+	"label": "1",
+	"data": "A staff member reported his USC ID missing."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A staff member driving his personal vehicle collided with a non-USC female driving her company vehicle, causing unspecified damage."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for peering into apartment windows at the location."
+}, {
+	"label": "1",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "3",
+	"data": "A suspect removed three laptop computers, a tablet computer, a guitar and miscellaneous clothing."
+}, {
+	"label": "2",
+	"data": "A visitor's bicycle was reported stolen."
+}, {
+	"label": "3",
+	"data": "A suspect removed three computer adapters and miscellaneous coins."
+}, {
+	"label": "3",
+	"data": "A vandalism suspect was arrested for possession of a dagger."
+}, {
+	"label": "2",
+	"data": "A student was struck by a vehicle while riding his bicycle near the location. The student was not injured."
+}, {
+	"label": "2",
+	"data": "Three roommates disputed over furniture and other property."
+}, {
+	"label": "2",
+	"data": "A suspect removed currency from a purse."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after suffering an allergic reaction to her medication."
+}, {
+	"label": "1",
+	"data": "Flashlights were reported to be missing from four University vehicles."
+}, {
+	"label": "2",
+	"data": "A welfare check was conducted on a student at the location after a friend reported receiving a disturbing text message from her. The student met with a counselor at the scene and she was subsequently cleared for release."
+}, {
+	"label": "2",
+	"data": "A student reported that her ex-boyfriend, also a student, smashed the headlights and dented the side panels on her vehicle while it was parked at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a dental tool."
+}, {
+	"label": "3",
+	"data": "A student reported that her mother slapped and punched her in the face during an argument. The student did not desire criminal prosecution of the matter."
+}, {
+	"label": "2",
+	"data": "A suspect removed a laptop computer."
+}, {
+	"label": "1",
+	"data": "An unidentified subject drove a vehicle through a parking control arm at the location, causing it to break off it's base."
+}, {
+	"label": "3",
+	"data": "A non-USC male was arrested for punching another non-USC male."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for spray painting graffiti on a sidewalk near the location."
+}, {
+	"label": "3",
+	"data": "A student reported that a suspect punched him in the head without provocation while he was riding his bicycle near the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a package that was delivered to the location."
+}, {
+	"label": "2",
+	"data": "The roof of a University van struck some overhead pipes as a student drove it inside the location, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "A non-USC female reported her purse missing."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "3",
+	"data": "Unknown person triggered the fire alarm by activating a pull station."
+}, {
+	"label": "2",
+	"data": "Several juveniles were advised against trespassing on University property after the were observed sitting inside a University electric cart parked on the sixth floor of the location. All of the subjects then left campus without further incident."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after suffering an allergic reaction to food she had eaten."
+}, {
+	"label": "2",
+	"data": "A suspect who was observed starting fires in two trash cans near the location was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A fire alarm activated by unknown means. No further incident."
+}, {
+	"label": "2",
+	"data": "Unknown suspect removed a student's laptop, backpack, wallet, and keys from a student's locker."
+}, {
+	"label": "3",
+	"data": "A trespassing suspect was arrested for possession of burglary tools and a controlled substance."
+}, {
+	"label": "2",
+	"data": "A staff member backed a University vehicle into a wall, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A suspect removed a pair of sunglasses."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported to a local hospital for medical treatment after reporting that she was bleeding internally."
+}, {
+	"label": "2",
+	"data": "A suspect was detained for investigation after she was observed taking pictures of people using an ATM machine outside the location. The subject was questioned, then she was advised against trespassing on University property and released."
+}, {
+	"label": "2",
+	"data": "A suspect used unknown means to make several unauthorized charges to a student's credit card account."
+}, {
+	"label": "2",
+	"data": "A staff member driving her personal vehicle collided with another vehicle driven by a non-USC female, causing unspecified damage."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "A student reported a camera missing."
+}, {
+	"label": "1",
+	"data": "A student reported a dental tool missing."
+}, {
+	"label": "1",
+	"data": "A staff member reported that a former student's verbally abusive and aggressive behavior during a meeting caused her to fear for her safety."
+}, {
+	"label": "3",
+	"data": "A suspect damaged a student's key fob."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for belligerent and uncooperative behavior with DPS officers who responded to a noise complaint at the location."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after experiencing an allergic reaction to food he had eaten."
+}, {
+	"label": "2",
+	"data": "A student reported his duffel bag stolen."
+}, {
+	"label": "3",
+	"data": "A suspect removed a purse, two backpacks and miscellaneous clothing."
+}, {
+	"label": "3",
+	"data": "A staff member used a doctor's prescription pad to write several fraudulent prescriptions for herself and had them filled at multiple pharmacies."
+}, {
+	"label": "2",
+	"data": "A non-USC male reported that an unidentified student threatened to kill him when he asked the subject to leave his bike shop at the location during an argument about bike repairs and it has caused him and his staff to fear for their safety."
+}, {
+	"label": "3",
+	"data": "An intoxicated student was examined and released into the care of her friends."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "3",
+	"data": "A trespassing suspect was arrested for a parole violation and possession of a concealed dagger."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student driving his personal vehicle collided with a non-USC female driving her personal vehicle, causing unspecified damage."
+}, {
+	"label": "4",
+	"data": "A juvenile was transported to a local hospital for medical treatment after possibly being drugged at a club in West Hollywood."
+}, {
+	"label": "2",
+	"data": "A suspect removed a laptop computer."
+}, {
+	"label": "1",
+	"data": "A student reported that the driver's side door was damaged while her vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A non-USC male was examined and released at the scene after suffering an anxiety attack."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "A staff member reported that the rear bumper was damaged while a University vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed the handlebars from a bicycle."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for possessing live ammunition in an apartment at the location."
+}, {
+	"label": "2",
+	"data": "A staff member reported that several payroll checks were removed from the location and subsequently cashed by unknown suspects."
+}, {
+	"label": "2",
+	"data": "A suspect removed a pair of headphones."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of severe abdominal pain."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported to a local hospital for medical treatment after collapsing outside the location."
+}, {
+	"label": "2",
+	"data": "A juvenile was transported to a local hospital for medical treatment after suffering a seizure."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A non-USC female reported that a suspect sprayed liquid laundry detergent on her and another non-USC female inside the location when they refused to give him money. The suspect then left the building and disappeared from sight."
+}, {
+	"label": "2",
+	"data": "A non-USC female was treated and released at the scene after sustaining a cut to her toe."
+}, {
+	"label": "2",
+	"data": "A student's bicycle was reported stolen."
+}, {
+	"label": "2",
+	"data": "A chain securing several bicycles together at the location was found to be unlocked. It could not be determined if any bikes had been removed at the time of the report."
+}, {
+	"label": "2",
+	"data": "A nurse reported that she sustained injuries to her wrists when a patient grabbed hold of them while she was trying to prevent him from detaching medical equipment from his body."
+}, {
+	"label": "2",
+	"data": "A faculty member was examined and released to seek medical treatment on his own after complaining of chest pains and difficulty breathing."
+}, {
+	"label": "2",
+	"data": "A contracted employee reported his car battery removed from his vehicle."
+}, {
+	"label": "2",
+	"data": "A male student was transported to a local hospital for abnormal heart rate."
+}, {
+	"label": "4",
+	"data": "A suspect approached a student from behind and slapped her buttocks while she was waiting to cross the street at the location. The suspect then walked away and the student proceeded to the DPS office to report the incident."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after sustaining a possible concussion."
+}, {
+	"label": "1",
+	"data": "A non-USC female reported that the rear bumper was scratched while her vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A staff member reported that an acquaintance of another staff member has been repeatedly calling them both on their office phones and leaving derogatory messages about the university."
+}, {
+	"label": "2",
+	"data": "A suspect removed a laptop computer."
+}, {
+	"label": "2",
+	"data": "Eighteen students were arrested for possession of fake ID's, cited and released."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to seek medical treatment on her own after complaining of dizziness and feeling faint."
+}, {
+	"label": "2",
+	"data": "A suspect removed a tote bag."
+}, {
+	"label": "3",
+	"data": "A suspect used an unknown object to smash a kitchen window."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to seek medical treatment on his own after injuring his knee."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported to a local hospital for medical treatment after injuring her knee."
+}, {
+	"label": "2",
+	"data": "A student was transported to SHC for medical treatment after cutting his finger."
+}, {
+	"label": "1",
+	"data": "A staff member reported that a rented generator parked at the location was damaged by unknown means."
+}, {
+	"label": "2",
+	"data": "A student's phone was recovered from a theft suspect at the location."
+}, {
+	"label": "3",
+	"data": "A landscaper broke a water main while removing a tree stump outside the location. FMS personnel were notified and a work order was generated to repair the main."
+}, {
+	"label": "2",
+	"data": "A student reported that after applying for a job posted online he received a check from the company with instructions to deposit it"
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A faculty member reported that a former student contacted her by phone and email in violation of a University 'stay away' letter."
+}, {
+	"label": "1",
+	"data": "LAFD responded to a report of an electrical outlet short in an apartment at the location. LAFD shut off the power to the apartment and FMS personnel were requested to conduct repairs."
+}, {
+	"label": "1",
+	"data": "A student reported misplacing his laptop in the City of San Francisco, CA."
+}, {
+	"label": "1",
+	"data": "A roll up parking gate lowered and struck a student's vehicle as he was exiting the location, damaging the rear bumper and trunk."
+}, {
+	"label": "4",
+	"data": "A suspect removed the in-dash stereo."
+}, {
+	"label": "2",
+	"data": "A loss prevention officer at the location reported that the boyfriend of a shoplifting suspect threatened him when he detained her for questioning outside the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "A staff member misplaced her keys."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after being kicked in the head while playing soccer."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after complaining of difficulty breathing, chest pains and numbness in his arm."
+}, {
+	"label": "3",
+	"data": "A student was struck by a vehicle while riding his skateboard near the location. The student sustained an injury to his ankle and was treated and released at the scene."
+}, {
+	"label": "2",
+	"data": "A student reported that she wired money for a deposit on an apartment to a subject who claimed to be the building manager but the listing turned out to be a fraud."
+}, {
+	"label": "2",
+	"data": "A non-USC male was treated and released at the scene after falling and sustaining a cut to the back of his head."
+}, {
+	"label": "1",
+	"data": "A staff member reported three gift blankets missing."
+}, {
+	"label": "2",
+	"data": "A parent requested that a welfare check be conducted on a student at the location, but he was not present and could not be located at the time of the report."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student reported that a non-USC male she met at a party has been sending her unwanted messages via social media for approximately two years."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing a student's bicycle from the location."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing a student's bicycle from the location."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of stomach and chest pain, and difficulty breathing."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by a malfunctioning smoke detector."
+}, {
+	"label": "2",
+	"data": "A domestic violence suspect was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "A student reported her bicycle stolen."
+}, {
+	"label": "2",
+	"data": "A non-USC male was arrested for an outstanding warrant after being detained for a traffic violation."
+}, {
+	"label": "1",
+	"data": "A non-USC female reported currency missing."
+}, {
+	"label": "2",
+	"data": "A faculty member was escorted off campus after he was discovered to be in possession of a handgun."
+}, {
+	"label": "2",
+	"data": "A suspect removed a backpack."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "Officers responded to a report of a suspect yelling and cursing at a student and a staff member at the location, but he left the building prior to their arrival and could not be located during a subsequent search of the area."
+}, {
+	"label": "2",
+	"data": "A welfare check was conducted on a student who was observed sitting on a ledge outside a dorm room on the eighth floor of the location. The student informed the responding officers that he was out on the ledge to enjoy the view and they concluded that"
+}, {
+	"label": "1",
+	"data": "Two student were cited to Judicial Affairs for smoking marijuana in a dorm room at the location. Marijuana and a bong were found in the room and subsequently confiscated."
+}, {
+	"label": "3",
+	"data": "A suspect who was observed injecting the contents of a hypodermic needle into his arm outside the location was arrested for possession of a controlled substance."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A student reported that a suspect has been sending her unsolicited nude photos through her social media accounts."
+}, {
+	"label": "2",
+	"data": "A student drove his vehicle into an unidentified subject's parked vehicle inside the location, causing unspecified damage."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A suspect removed the front wheel and handlebars from a bicycle."
+}, {
+	"label": "3",
+	"data": "A suspect removed a blanket."
+}, {
+	"label": "3",
+	"data": "A non-USC female was transported to a local hospital for medical treatment following an alcohol overdose. Three other intoxicated non-USC individuals were examined and released at the scene."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing a student's bicycle from the location."
+}, {
+	"label": "2",
+	"data": "A staff member reported that she observed an unidentified female temp employee removing property from an ICU on the fifth floor of the location."
+}, {
+	"label": "1",
+	"data": "A student reported that the front bumper was damaged while his vehicle was parked at the location."
+}, {
+	"label": "1",
+	"data": "A fire alarm was activated by an air conditioner blowing dust into a smoke detector."
+}, {
+	"label": "1",
+	"data": "A student reported a package missing."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student reported that on three different occasions she has been approached outside the location by male subjects who attempt to engage her in flirtatious conversation and it has caused her to feel uncomfortable."
+}, {
+	"label": "2",
+	"data": "A suspect removed a toiletry bag."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for using a fake ID to purchase alcohol at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed the catalytic converter."
+}, {
+	"label": "2",
+	"data": "A staff member reported that she was splashed with an unknown liquid while removing a tray from a pathology refrigerator. The staff member was not injured and the liquid was subsequently determined to be water."
+}, {
+	"label": "4",
+	"data": "A suspect in a passing vehicle shot a non-USC male twice with a paint ball gun while he was standing at the location."
+}, {
+	"label": "3",
+	"data": "A staff member reported that over a period of several months two juveniles have been entering the secured FMS storage area at the location and vandalizing property."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A non-USC female and a non-USC male were involved in a verbal altercation at the location, during which the male was reported to have pushed the female."
+}, {
+	"label": "3",
+	"data": "A suspect approached a student who was walking near the location and elbowed her in the face without provocation. The suspect then walked away and disappeared from sight."
+}, {
+	"label": "2",
+	"data": "A non-USC female who was reported to be exposing herself and harassing passersby near the location was transported to a local hospital for psychiatric care."
+}, {
+	"label": "2",
+	"data": "A staff member was examined and released at the scene after falling while exiting an elevator inside the location."
+}, {
+	"label": "2",
+	"data": "A staff member reported that she is being harassed by unidentified coworkers."
+}, {
+	"label": "2",
+	"data": "A suspect removed a wallet."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of a friend."
+}, {
+	"label": "3",
+	"data": "A non-USC male reported that a safety railing, a concrete planter and a bench were damaged by unidentified subjects who were skateboarding at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a pair of headphones."
+}, {
+	"label": "1",
+	"data": "A suspect was arrested for prowling inside the location."
+}, {
+	"label": "2",
+	"data": "LAFD responded to free a staff member who was trapped in an elevator at the location."
+}, {
+	"label": "2",
+	"data": "A staff member drove his personal vehicle into a parked University vehicle, causing minor damage."
+}, {
+	"label": "2",
+	"data": "A suspect removed a tote bag."
+}, {
+	"label": "2",
+	"data": "An intoxicated student was examined and released into the care of an RA."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of an adverse reaction to drugs she had taken a few days earlier."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after complaining of dizziness."
+}, {
+	"label": "2",
+	"data": "FMS personnel responded to free a contractor who was trapped in an elevator at the location."
+}, {
+	"label": "2",
+	"data": "A bike theft suspect was arrested for a parole violation."
+}, {
+	"label": "2",
+	"data": "A suspect removed a wallet and a cellular phone."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing a student's bicycle from the location."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by smoke from burnt food."
+}, {
+	"label": "4",
+	"data": "A suspect removed a laptop computer."
+}, {
+	"label": "2",
+	"data": "A non-USC male was treated and released at the scene after falling and sustaining abrasions to his nose."
+}, {
+	"label": "2",
+	"data": "A suspect used unknown means to make two unauthorized purchases on a student's food delivery service account."
+}, {
+	"label": "2",
+	"data": "A shoplifting suspect was arrested for three outstanding warrants."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing a student's bicycle from the location."
+}, {
+	"label": "2",
+	"data": "Two students were cited to Judicial Affairs for allowing two non-USC male's to use their USC Id's in order to be allowed to participate in a basketball league for students only."
+}, {
+	"label": "3",
+	"data": "A student and three companions were arrested for trespassing at the location."
+}, {
+	"label": "1",
+	"data": "A suspect was arrested for prowling in the bike racks at the location and a probation violation."
+}, {
+	"label": "2",
+	"data": "A suspect approached a student who was walking his bike near the location and threatened to take it from him. Fearing for his safety, the student flagged down passing DPS officers. The officers detained the suspect, but he was subsequently released due to insufficient evidence of a crime having been committed."
+}, {
+	"label": "1",
+	"data": "A student's vehicle was immobilized for displaying an altered USC parking permit."
+}, {
+	"label": "2",
+	"data": "A staff member reported receiving numerous email messages from a patient who continues to ask for amendments to be made to her medical record after her prior requests were denied."
+}, {
+	"label": "2",
+	"data": "A staff member fell from a ladder injuring her right arm. She declined medical attention."
+}, {
+	"label": "2",
+	"data": "Officers responded to conduct a welfare check on a possibly suicidal staff member at the location, but he left prior to their arrival and could not be located at the time of the report."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of chest pains."
+}, {
+	"label": "2",
+	"data": "A suspect spray painted graffiti on a newspaper dispenser at the location."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after complaining of severe abdominal pain."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A student reported a dental tool missing."
+}, {
+	"label": "2",
+	"data": "A student reported that he was awakened by another student whom he did not know rummaging through his desk drawers in his bedroom. The second student appeared to under the influence of a controlled substance and he was escorted out of the apartment by the reporting student. No property was removed."
+}, {
+	"label": "1",
+	"data": "A staff member reported that the front air dam on a University vehicle was damaged by unknown means."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A suspect used unknown means to make two unauthorized purchases on a student's credit card account."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "4",
+	"data": "A suspect removed a pair of handcuffs, a flashlight and a phone charger."
+}, {
+	"label": "2",
+	"data": "A suspect removed a wallet."
+}, {
+	"label": "2",
+	"data": "An intoxicated non-USC female was found inside the location naked from the waist down and she stated that she removed her clothing to urinate after being unable to find a restroom. The female declined any assistance from officers and was released at the scene."
+}, {
+	"label": "2",
+	"data": "A student reported that for the past three months another student has been following her into the dining hall at the location and staring at her for long periods of time. The subject has also been showing up outside her building and watching her as she comes and goes on campus."
+}, {
+	"label": "2",
+	"data": "A welfare check was conducted on a student at the location at the request of his mother who was concerned about his state of mind. The student was unharmed when contacted by officers and he declined to speak with a counselor. The officers concluded that the student was not a danger to himself or others and cleared the scene."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for an outstanding warrant."
+}, {
+	"label": "2",
+	"data": "Officers responded to the location to check on the welfare of a student who was heard arguing with his girlfriend. The student stated that he was venting to his girlfriend about family issues and he was cleared for release after speaking with a counselor at the Student Counseling Center."
+}, {
+	"label": "1",
+	"data": "A student's vehicle was immobilized for displaying an altered USC parking pass."
+}, {
+	"label": "3",
+	"data": "A staff member reported that a side view mirror on a University tram was damaged by unknown means."
+}, {
+	"label": "4",
+	"data": "A non-USC male was arrested for punching his boyfriend several times during an argument, biting him and hitting him with a bat. There was no USC involvement."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "3",
+	"data": "A student reported that he was struck by a vehicle while riding his bicycle near the location and the driver left the scene without stopping to exchange information or check on his welfare. The student sustained a minor injury to his elbow and did not desire medical treatment."
+}, {
+	"label": "2",
+	"data": "A non-USC female reported that an unidentified male threw a plastic bottle into her vehicle during a verbal dispute."
+}, {
+	"label": "2",
+	"data": "A female student fell and sustained an head injury. The student was transported to a hospital."
+}, {
+	"label": "2",
+	"data": "A welfare check was conducted on a student at the location after a friend reported that she was distraught about a sexual"
+}, {
+	"label": "1",
+	"data": "A student reported that the hood was dented while her vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after experiencing numbness to her face."
+}, {
+	"label": "3",
+	"data": "Unknown person triggered the fire alarm from a wall mounted 'pull station' without reason. No sign of fire or smoke."
+}, {
+	"label": "4",
+	"data": "A student reported that a suspect to whom he intended to sell his cellular phone produced a handgun and struck him with it while attempting to take the phone. The suspect then fled to a waiting vehicle and drove away."
+}, {
+	"label": "2",
+	"data": "A student reported that she has been having on-going problems with her roommate, also a student, and it has caused her to fear for her safety."
+}, {
+	"label": "2",
+	"data": "A staff member was examined and released to seek medical treatment on his own after injuring his thumb."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of three trash bags."
+}, {
+	"label": "4",
+	"data": "A student was struck by a vehicle while crossing the street at the location and the driver of the vehicle fled without stopping to check on her welfare. The student sustained unspecified injuries and was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A suspect removed a package that was delivered to the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "1",
+	"data": "A fire alarm was activated by fumes from contractors painting inside the location."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to SHC for medical treatment after hitting his head on a pillar."
+}, {
+	"label": "2",
+	"data": "A non-USC female was transported to a local hospital for medical treatment after falling and hitting her head."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "3",
+	"data": "An intoxicated student was examined and released at the scene."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "An unresponsive non-USC male was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A non-USC male driving his personal vehicle collided with a student driving her personal vehicle, causing unspecified damage."
+}, {
+	"label": "1",
+	"data": "The front windshield of a University vehicle was cracked by unknown means."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after fainting."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for attempting to use a shaved key to gain entry to vehicles parked near the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed sixty cafeteria meal tickets."
+}, {
+	"label": "2",
+	"data": "Two non-USC males were involved in a verbal dispute at the location."
+}, {
+	"label": "3",
+	"data": "A radiation alarm was activated by the contents of a trash bag."
+}, {
+	"label": "2",
+	"data": "A student reported that a suspect in a vehicle pulled alongside him as he was walking near the location and offered him money for a photograph of his buttocks. The student continued walking and the suspect subsequently drove away."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A staff member reported that she sustained an injury to her arm when she was struck by a linen cart on the loading dock at the location. The staff member did not desire medical treatment."
+}, {
+	"label": "2",
+	"data": "Three suspects approached a student who was walking near the location and demanded his property. Due to a language barrier the student did not comprehend what the suspects were saying and did not comply. The suspects then fled on foot."
+}, {
+	"label": "1",
+	"data": "An office window was broken by unknown means."
+}, {
+	"label": "4",
+	"data": "A suspect placed a lit candle on the floor in the basement of the location then placed a wooden stick on top of it, causing the stick to burn. A fire alarm was activated by smoke from the smoldering stick and LAFD responded to extinguish the fire."
+}, {
+	"label": "2",
+	"data": "A staff member reported receiving four threatening email messages from a former patient."
+}, {
+	"label": "1",
+	"data": "A staff member reported three traffic cones missing from a University vehicle."
+}, {
+	"label": "2",
+	"data": "A student reported receiving multiple text messages from an unidentified subject advising him that he needed to respond to the location to care for an intoxicated friend, also a student, but he and DPS officers were unable to locate her at the time of the report."
+}, {
+	"label": "2",
+	"data": "A student reported that she was involved in a verbal dispute with her boyfriend and it has caused her to fear for her safety."
+}, {
+	"label": "2",
+	"data": "A student was transported to SHC for medical treatment after injuring his ankle."
+}, {
+	"label": "2",
+	"data": "A staff member reported that as he was pulling multiple mini trailers with a University electric cart one of them came loose and struck a vehicle parked near the location, causing minor damage."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "4",
+	"data": "Two suspects approached a student and one of them snatched his cellular phone from his hand as he was walking near the location. The suspects then ran to a nearby vehicle and drove away."
+}, {
+	"label": "2",
+	"data": "A bike theft suspect was arrested for outstanding warrants, but he was subsequently released when the warrants were determined not to be his."
+}, {
+	"label": "2",
+	"data": "A student was struck by a University electric cart while riding his skateboard near the location. The student sustained cuts and abrasions to both his arms, but he declined transportation for medical treatment."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "An intoxicated student was examined and released."
+}, {
+	"label": "1",
+	"data": "A non-USC male drove an oversized vehicle into the location and it's roof struck an overhead beam, causing minor damage."
+}, {
+	"label": "2",
+	"data": "A student was cited to Judicial Affairs for removing three textbooks from shelves inside the location and then selling them back without ever having paid for them."
+}, {
+	"label": "2",
+	"data": "A student was examined and released at the scene after complaining of heart palpitations."
+}, {
+	"label": "3",
+	"data": "A student reported that another student punched him in the face when he was denied entry to a party at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a dental tool."
+}, {
+	"label": "4",
+	"data": "A student reported that she was sexually assaulted."
+}, {
+	"label": "1",
+	"data": "A student reported that the rear windshield was smashed while his vehicle was parked at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after experiencing numbness on the right side of her body."
+}, {
+	"label": "3",
+	"data": "An intoxicated non-USC female was examined and released into the care of a friend."
+}, {
+	"label": "1",
+	"data": "A suspect was arrested for prowling inside the location."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to seek medical treatment on his own after injuring his knee."
+}, {
+	"label": "2",
+	"data": "A suspect removed a cellular phone."
+}, {
+	"label": "2",
+	"data": "A student reported receiving a message from a friend requesting that she model via video chat for a third party for a school project and she complied, but she later learned that the request came from a suspect posing as her friend."
+}, {
+	"label": "3",
+	"data": "A student driving her personal vehicle collided with a vehicle driven by a non-USC male, causing unspecified damage. The male and a passenger sustained unspecified injuries and were transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for forcibly removing a wallet and a cellular phone from a non-USC male's possession."
+}, {
+	"label": "2",
+	"data": "A student was transported to a local hospital for medical treatment after injuring his ankle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student reported that she observed two suspects remove a bicycle from a rack outside the location and walk away with it. It could not be determined if a crime had been committed at the time of the report."
+}, {
+	"label": "2",
+	"data": "A non-USC female reported that she was assaulted by her husband, a student."
+}, {
+	"label": "2",
+	"data": "A suspect removed the rear license plate."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for possession of a controlled substance and drug paraphernalia."
+}, {
+	"label": "2",
+	"data": "A suspect used an unknown object to scratch the paint on the driver's side of a non-USC male's vehicle while it was parked at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed currency from a wallet."
+}, {
+	"label": "2",
+	"data": "A staff member reported that a juvenile staying at the location for a summer program advised him that two other program participants are selling drugs on the premises."
+}, {
+	"label": "3",
+	"data": "An electrical panel caught fire while a staff member was working on it and he used a fire extinguisher to put it out."
+}, {
+	"label": "2",
+	"data": "A student driving his personal vehicle collided with a non-USC female driving her personal vehicle, causing unspecified damage."
+}, {
+	"label": "1",
+	"data": "A student reported that the rear driver's side door was damaged while her vehicle was parked at the location."
+}, {
+	"label": "3",
+	"data": "A student was transported to a local hospital for medical treatment following an alcohol overdose."
+}, {
+	"label": "2",
+	"data": "A non-USC female driving her personal vehicle collided with another non-USC female driving her personal vehicle, causing unspecified damage."
+}, {
+	"label": "4",
+	"data": "A suspect removed an empty cash box, a cell phone charger and a battery charger."
+}, {
+	"label": "2",
+	"data": "A suspect was arrested for removing a student's bicycle from the location."
+}, {
+	"label": "2",
+	"data": "A student reported that his roommate, also a student, left soiled toilet paper outside his bedroom door and also left him an obscene voice mail message."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for entering campus in violation of a University 'stay away' letter."
+}, {
+	"label": "3",
+	"data": "A staff member driving her personal vehicle collided with a non-USC male driving his personal vehicle, causing unspecified damage. The staff member sustained injuries to her knees, neck and face and was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A staff member reported her discomfort with an Uber driver after remarks made while driving followed by a phone."
+}, {
+	"label": "3",
+	"data": "A suspect removed two speakers."
+}, {
+	"label": "1",
+	"data": "A student reported that the rear driver's side quarter panel was dented while his vehicle was parked at the location."
+}, {
+	"label": "1",
+	"data": "A student reported his USC ID missing."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A staff member reported that he observed a suspect rolling a metal rack away from the loading dock area at the location and confronted him. The suspect then abandoned the rack and fled from sight."
+}, {
+	"label": "2",
+	"data": "A non-USC male suffering from low blood pressure was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A fire alarm was activated by unknown cause."
+}, {
+	"label": "2",
+	"data": "A suspect removed a pair of glasses, a GPS unit, a camera and a skateboard."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "Two students were involved in a dispute at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A student suffering from heat exhaustion was transported to a local hospital for medical treatment."
+}, {
+	"label": "2",
+	"data": "A suspect used a pencil to write graffiti on a stall wall in a restroom at the location."
+}, {
+	"label": "2",
+	"data": "A staff member was transported to a local hospital for medical treatment after being struck in the head by a freight elevator door."
+}, {
+	"label": "3",
+	"data": "A fire alarm was activated from a pull station."
+}, {
+	"label": "3",
+	"data": "A suspect was arrested for removing property from the garage at the location."
+}, {
+	"label": "2",
+	"data": "A suspect removed a virtual reality headset and two controllers."
+}, {
+	"label": "2",
+	"data": "Two students reported that the erratic and disruptive behavior of one of their classmates has caused them to feel uncomfortable."
+}, {
+	"label": "2",
+	"data": "FMS personnel responded to the location to free a staff member who was trapped in an elevator."
+}, {
+	"label": "2",
+	"data": "Officers responded to a report of a distraught student at the location and she informed them that she became emotional recalling an incident that happened to her several years ago, but she refused to elaborate. The student declined any assistance and the officers cleared the scene."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}, {
+	"label": "2",
+	"data": "Officers responded to a report of a suspect with his pants pulled down around his ankles on the ninth floor of the location, but the subject fled before their arrival and he could not be located during a subsequent search of the area."
+}, {
+	"label": "2",
+	"data": "A staff member reported that while she was driving a University vehicle on Cesar Chavez Bl. the driver's side mirror was struck by a passing vehicle. The driver of the second vehicle may not have been aware of the collision and drove away."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to seek medical treatment on his own after sustaining a cut to his forehead."
+}, {
+	"label": "1",
+	"data": "A suspect was arrested for prowling at the location."
+}, {
+	"label": "1",
+	"data": "A student reported his wallet missing."
+}, {
+	"label": "2",
+	"data": "A trespassing suspect was arrested for an outstanding warrant."
+}, {
+	"label": "4",
+	"data": "An unknown male suspect produced a kitchen knife demanding the store employee to leave the store with him. Employee refused and the suspect departed."
+}, {
+	"label": "2",
+	"data": "The property manager at the location reported that an unknown suspect had placed a possibly stolen bicycle in the garage at the location. The bicycle was subsequently removed and impounded at the DPS office per the manager's request."
+}, {
+	"label": "2",
+	"data": "A non-USC male drove his vehicle into a University tram driven by a staff member, causing mirror damage."
+}, {
+	"label": "4",
+	"data": "Two suspects exited a vehicle and approached a student who was riding his skateboard near the location. One of the suspects brandished a knife and demanded the student's property. The student complied, then the suspects returned to the vehicle and drove away."
+}, {
+	"label": "2",
+	"data": "A student was examined and released to seek medical treatment on her own after complaining of difficulty breathing."
+}, {
+	"label": "2",
+	"data": "A suspect removed a bicycle."
+}],
+
+	"authors": {
+		"author1": "Balasubramanian Thiagarajan",
+		"author2": "Sithara Kamalakkannan",
+		"author3": "Rahul Ethiraj"
+	},
+	"emails": {
+		"email1": "bthiagar@usc.edu",
+		"email2": "kamalakk@usc.edu",
+		"email3": "ethiraj@usc.edu"
+	}
+}
